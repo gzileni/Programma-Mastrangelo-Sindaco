@@ -5,7 +5,7 @@ Efficienza e riorganizzazione della macchina amministrativa
   :alt: Comune Efficiente
   :align: center
 
-Servizi pubblici più efficienti significa migliorare **la vita delle persone e i suoi fabbisogni​**, è la prima e la più importante missione da non perdere mai di vista.
+Servizi pubblici più efficienti significa migliorare la vita delle persone e i suoi fabbisogni​, è la prima e la più importante missione da non perdere mai di vista.
 
 Un Comune come Gioia del Colle non può continuare ad operare in carenza di organico così come avvenuto fino ad oggi.
 La prima sfida da affrontare sarà quella di **riorganizzare le aree e i servizi attraverso una puntuale e rigorosa individuazione dei compiti e dei centri di responsabilità**.

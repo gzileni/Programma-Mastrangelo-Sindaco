@@ -9,7 +9,7 @@ Negli ultimi anni il servizio di riscoissione tributi nonostante fosse gestito c
 Tale inefficienza ha impedito all'ente dfi utilizzare le risorse in entrata per svolgere le proprie funzioni basilari.
 Obiettivo primario sarà quello di monitorare l'attività di recupero efficacemente in tutte le fasi indispensabioli all'effettivo incasso delle somme dovute.
 
-Constrastare il fenomeno dell’evasione dei tributi comunali per un sistema fiscale più equo e sostenibile per famiglie e imprese.
+Constrastare il fenomeno dell’evasione dei tributi comunali per un sistema fiscale più equo e sostenibile per famiglie e imprese.
 
 Al contempo bisognerà agevolare le imprese che presidiano e animano la citta' valorizzando e sviluppando l'economia locale, garantendo il lavoro e la possibilità per le famiglie di vivere e progredire nel benessere.
 Sui cittadini dovrà ricadere il beneficio derivante dalla elevata percentuale di raccolta differenziata atteso che gli stessi hanno consentito il raggiungimento di importanti obiettivi.

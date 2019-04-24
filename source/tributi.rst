@@ -17,7 +17,7 @@ Garantire alle attività commerciali e imprenditoriali una immediata semplificaz
 
 L'Amministrazione avrà l'obiettivo di monitorare l'attuazione dell'indirizzo politico per il recupero dell’evasione tributi, il rispetto del contratto con la società di riscossione, di elaborare e pubblicare report periodici di data analysis sullo stato di evasione/recupero fiscale nel rispetto della tutela dei dati personali.
 
-Impegno prioritario sarà altresì la sottoscrizione del protocollo d'intesa con gli Uffici della `Agenzia delle Entrate`_ , unitamente alla società incaricata alla riscossione tributi.
+Impegno prioritario sarà altresì la sottoscrizione del protocollo d'intesa con gli **Uffici della Agenzia delle Entrate**, unitamente alla società incaricata alla riscossione tributi.
 
 La comunicazione costante e continua tra l'Ufficio Tributi, Ufficio Tecnico e Servizio Ragioneria sarà la chiave strategica per garantire una rigorosa e attendibile fotografia dello stato di salute economico dell'Ente.
 
@@ -38,4 +38,3 @@ Riferimenti
 .. _187461 del 3 dicembre 2007: https://toscana.agenziaentrate.it/sites/toscana/files/public/2008/rapporti%20con%20enti/A4%20-%20Provvedimento%20Direttoriale%203%20dicembre%202007.pdf
 .. _175466 del 26 novembre 2008: https://umbria.agenziaentrate.it/sites/umbria/files/public/NormativaCollaborazioneComuni/Provvedimento+26+novembre+2008.pdf
 .. _Decreto Legge n.112 del 25 giugno 2008: http://www.gazzettaufficiale.it/eli/id/2008/08/21/08A05897/sg
-.. _Agenzia delle Entrate: https://puglia.agenziaentrate.it/?id=1961

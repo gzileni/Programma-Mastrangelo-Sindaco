@@ -46,6 +46,9 @@ PagoPA
 ^^^^^^^^
 `PagoPA`_ è il sistema di pagamenti elettronici verso la Pubblica Amministrazione con il quale si possono pagare le tasse, prestazioni sanitarie, iscrizioni scolastiche e molto altro in maniera sicura e veloce.
 
+.. raw:: html
+   :file: pagopa.html
+
 ^^^^^^^^^
 FOIA Pop
 ^^^^^^^^^

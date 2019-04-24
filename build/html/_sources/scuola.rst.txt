@@ -20,5 +20,8 @@ Scuola Senza Zaino
 -------------------
 Gli spazi dell’aula e della scuola, in una scuola progettata per `Senza Zaino`_ ,sono organizzati per concretizzare l’idea di Comunità e permettere l’incontro e il lavoro condiviso dei docenti e degli allievi.
 Lo spazio-aula è strutturato in aree e prevede un luogo di incontro per gli allievi, denominato agorà o forum, particolarmente significativo per la comunità-classe.
-   
+
+.. raw:: html
+   :file: scuola_senza_zaino.html
+
 .. _Senza Zaino: https://www.scuolasenzazaino.org

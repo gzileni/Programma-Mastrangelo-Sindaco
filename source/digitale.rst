@@ -9,11 +9,11 @@ Cittadinanza digitale
 **Le città diventano smart quando sono in grado di ascoltare i cittadini e attivare la collaborazione e partecipazione per produrre servizi utili ai fabbisogni della comunità.**
 
 La diffusione di una cultura digitale e i dati pubblici sono elementi essenziali e materia prima dell’economia digitale, garantiscono il successo dell’innovazione digitale nel territorio.
-Il Comune deve essere aperto, ​responsive,​ abilitante e pronto ad una governance che sia in grado di far crescere community di innovatori e collaborazione tra territori.
+Il Comune deve essere aperto, responsive, abilitante e pronto ad una governance che sia in grado di far crescere community di innovatori e collaborazione tra territori.
 
-La pubblica amministrazione è un soggetto attivo che crea valore pubblico,​ produce e utilizza una grande quantità di dati che se rilasciati pubblicamente a disposizione della collettività svelano tutto il loro potenziale di acceleratori di sviluppo, crescita e momenti importanti di confronto tra Pubblica Amministrazione e Community locale.
+La pubblica amministrazione è un soggetto attivo che crea valore pubblico, produce e utilizza una grande quantità di dati che se rilasciati pubblicamente a disposizione della collettività svelano tutto il loro potenziale di acceleratori di sviluppo, crescita e momenti importanti di confronto tra Pubblica Amministrazione e Community locale.
 
-I dati pubblici devono essere di particolare interesse pubblico e ad alto impatto dal punto di vista sociale ed economico per poter attuare l’approccio dell’​Open Government,​ Accountability​, ​Partecipazione e collaborazione con creativi, soggetti competenti, Università e StartUP.
+I dati pubblici devono essere di particolare interesse pubblico e ad alto impatto dal punto di vista sociale ed economico per poter attuare l’approccio dell'Open Government, Accountability, Partecipazione e collaborazione con creativi, soggetti competenti, Università e StartUP.
 
 La digitalizzazione completa del Comune di Gioia del Colle è una missione fondamentale da portare a termine, `altrimenti faremo un danno al territorio e all’erario`_.
 
@@ -22,19 +22,19 @@ Strategia Digitale per il Comune di Gioia del Colle
 ----------------------------------------------------
 Le richieste dei cittadini saranno il carburante che alimenterà il motore dell’evoluzione digitale del Comune di Gioia del Colle, innescando un meccanismo virtuoso che consentirà di allentare la pressione sui costi restituendo ossigeno al bilancio comunale.
 
-Occorrerà innanzitutto ​potenziare le competenze dei dipendenti pubblici​, che dovranno essere in grado di affrontare la costante evoluzione della comunicazione con i cittadini.
+Occorrerà innanzitutto potenziare le competenze dei dipendenti pubblici, che dovranno essere in grado di affrontare la costante evoluzione della comunicazione con i cittadini.
 
 Nell’era digitale il Cittadino dovrà essere soddisfatto in tutte le sue esigenze, con l’attuale tecnologia possiamo di sviluppare servizi digitali fruibili con smartphone e tablet, che semplificheranno la vita di ognuno di noi e velocizza il processo della completa digitalizzazione del proprio Ente.
 
 La Strategia per una digitalizzazione totale del Comune avrà 3 (tre) punti fondamentali:
 
-1. la creazione tra i dipendenti e gli amministratori di una Cultura Digitale attraverso un percorso di formazione e r​ ecruitment​ di nuove competenze;
+1. la creazione tra i dipendenti e gli amministratori di una Cultura Digitale attraverso un percorso di formazione e recruitment di nuove competenze;
 2. L’innovazione dei sistemi informatici e software;
 3. Creazione di leadership all’interno del Comune per guidare i processi di innovazione digitale.
 
 Il punto di partenza
 ---------------------
-Si dovrà partire sfruttando le opportunità esistenti grazie alle principali piattaforme nazionali per la cittadinanza digitale (SPID, PagoPA, ANPR), armonizzando tutti i servizi digitali già operativi, a cominciare dallo ​Sportello Anagrafe centrale per lo sviluppo digitale del Comune di Gioia del Colle, fino ai ​Tributi,​ ​Servizi Sociali,​ ​Sue/Suap per le attività commerciali, ​SIT per conoscere il territorio, le sue risorse ed il suo utilizzo, ed infine il ​Servizi Rifiuti accessibili tramite il portale `eGov`_.
+Si dovrà partire sfruttando le opportunità esistenti grazie alle principali piattaforme nazionali per la cittadinanza digitale (SPID, PagoPA, ANPR), armonizzando tutti i servizi digitali già operativi, a cominciare dallo Sportello Anagrafe centrale per lo sviluppo digitale del Comune di Gioia del Colle, fino ai Tributi, Servizi Sociali, Sue/Suap per le attività commerciali, SIT per conoscere il territorio, le sue risorse ed il suo utilizzo, ed infine il Servizi Rifiuti accessibili tramite il portale `eGov`_.
 
 ^^^^^^^^
 SPID
@@ -63,7 +63,7 @@ E’ necessario rilanciare Il rapporto tra cittadini e Comune attraverso un’at
 Il sito istituzionale e i suoi servizi pubblici collegati avranno un nuovo approccio comunicativo più reattivo in linea con i social network a disposizione dei cittadini in qualunque momento e su qualunque piattaforma, senza trasformare i suoi account social in estensioni dell’URP.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ANPR ​e interoperabilità dei dati
+ANPR e interoperabilità dei dati
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Il Comune di Gioia del Colle è subentrato a `ANPR (Anagrafe Nazionale della Popolazione Residente)`_ il `5 Novembre 2018`_ collegando i servizi dell’`Anagrafe alla banca dati nazionale`_.
 
@@ -79,7 +79,7 @@ Migrazione di tutti i servizi informatici verso architetture informatiche `CLOUD
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 SPID per Professionisti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il sito istituzionale con i servizi pubblici del Comune di Gioia del Colle saranno accessibili online tramite SPID, insieme allo ​SPID per professionisti che consentirà di associare ruoli professionali e iscrizione in albi.
+Il sito istituzionale con i servizi pubblici del Comune di Gioia del Colle saranno accessibili online tramite SPID, insieme allo SPID per professionisti che consentirà di associare ruoli professionali e iscrizione in albi.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Open Source

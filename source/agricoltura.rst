@@ -19,8 +19,8 @@ AgroCittà
 Gli allevatori e produttori dell’agro gioiese hanno diritto ad avere servizi efficienti e non devono più sentirsi trascurati e abbandonati. 
 La nostra coalizione intende lo spazio urbano come un territorio che ingloba anche le campagne gioiesi diventando una grande AgroCittà con al centro l’Agricoltura gioiese, importante per il nostro sviluppo sociale ed economico grazie alla sua capacità attrattiva e forte identità storica.
 
-Essere un ​Agrocittà significa che l’agro gioiese deve godere degli stessi diritti di tutti cittadini gioiesi. 
-ùLa riqualificazione delle aree agricole a sostegno dell’agricoltura locale sarà parte integrante dei percorsi partecipativi per redigere il nuovo ​Piano Urbanistico​, in rete con i comuni limitrofi per co-progettare soluzioni per risolvere le criticità diffuse sulla viabilità e per il rispetto dell’ambiente, soprattutto per valorizzare il territorio a favore del turismo agricolo.
+Essere un Agrocittà significa che l’agro gioiese deve godere degli stessi diritti di tutti cittadini gioiesi. 
+La riqualificazione delle aree agricole a sostegno dell’agricoltura locale sarà parte integrante dei percorsi partecipativi per redigere il nuovo Piano Urbanistico, in rete con i comuni limitrofi per co-progettare soluzioni per risolvere le criticità diffuse sulla viabilità e per il rispetto dell’ambiente, soprattutto per valorizzare il territorio a favore del turismo agricolo.
 
 Gestione rifiuti nell'agro gioiese
 ------------------------------------

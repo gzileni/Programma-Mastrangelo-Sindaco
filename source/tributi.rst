@@ -15,7 +15,8 @@ Al contempo bisognerà agevolare le imprese che presidiano e animano la citta' v
 Sui cittadini dovrà ricadere il beneficio derivante dalla elevata percentuale di raccolta differenziata atteso che gli stessi hanno consentito il raggiungimento di importanti obiettivi.
 Garantire alle attività commerciali e imprenditoriali una immediata semplificazione nel pagamento delle tasse derivanti dall'occupazione di suolo pubblico ponendo come obiettivo il raggiungimento anche in tal senso di una procedura telematica per la quantificazione e relativo pagamento.
 
-L'Amministrazione avrà l’obiettivo di monitorare l’attuazione dell’indirizzo politico per il recupero dell’evasione tributi, il rispetto del contratto con la società di riscossione, di elaborare e pubblicare report periodici di ​data analysis sullo stato di evasione/recupero fiscale nel rispetto della tutela dei dati personali.
+L'Amministrazione avrà l’obiettivo di monitorare l’attuazione dell’indirizzo politico per il recupero dell’evasione tributi, il rispetto del contratto con la società di riscossione, di elaborare e pubblicare report periodici di data analysis sullo stato di evasione/recupero fiscale nel rispetto della tutela dei dati personali.
+
 Impegno prioritario sarà altresì la sottoscrizione del protocollo d'intesa con gli Uffici dell’`Agenzia delle Entrate`_ , unitamente alla società incaricata alla riscossione tributi.
 
 La comunicazione costante e continua tra l'Ufficio Tributi, Ufficio Tecnico e Servizio Ragioneria sarà la chiave strategica per garantire una rigorosa e attendibile fotografia dello stato di salute economico dell'Ente.

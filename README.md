@@ -1,1 +1,1 @@
-![Mastrangelo Sindaco]()
+![Mastrangelo Sindaco](source/_images/banner.png)

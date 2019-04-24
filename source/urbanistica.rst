@@ -16,7 +16,7 @@ Nelle more dell'approvazione sarà istituito un ufficio in grado di promuovere u
 Compito dell'Amministrazione sarà quello di attivare procedure che le norme nazionali e regionali consentono di utilizzare per la risoluzione di problemi urbanistici e per lo sviluppo delle aree produttive della città.
 Promuovere accordi di programma al fine di utilizzare strumenti perequativi per la realizzazione di nuovi standard urbanistici per affrontare i problemi relativi alle aree commerciali e artigianali.
 
-Approvazione immediata del `Regolamento Edilizio Tipo (RET)`_ della Regione Puglia al fine di garantire una corretta e puntuale applicazione della normativa edilizia, eliminando dubbi e interpretazioni discrezionali.
+Approvazione immediata del `RET`_ (Regolamento Edilizio Tipo) della Regione Puglia al fine di garantire una corretta e puntuale applicazione della normativa edilizia, eliminando dubbi e interpretazioni discrezionali.
 
 --------------------
 Centro storico
@@ -78,6 +78,6 @@ Bisognerà promuovere e sollecitare i privati (aziende, scuole, residenti, citta
 Sarà promossa una campagna sui social network e attraverso le pagine istituzionali al fine di promuovere la collaborazione tra privati e pubblico. 
 Permetterà ai soggetti privati di compiere erogazioni libere nei confronti del Comune, superando i limiti del `Regolamento sui Beni Comuni`_ con una donazione, sponsorizzazione, o altre forme di collaborazione contro il degrado urbano.
 
-.. _Regolamento Edilizio Tipo (RET): http://www.regione.puglia.it/documents/10192/20134617/Delibera+-+N°+2250+2017+-+allegato.pdf
+.. _RET: http://www.regione.puglia.it/documents/10192/20134617/Delibera+-+N°+2250+2017+-+allegato.pdf
 .. _Regolamento sui Beni Comuni: http://www.comune.gioiadelcolle.ba.it/cms/files/c0b3f884-3f80-4495-9c06-691639a435c2
  

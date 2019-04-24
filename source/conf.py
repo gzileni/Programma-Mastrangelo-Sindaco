@@ -106,14 +106,14 @@ else:
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "None"
+html_title = "Mastrangelo Sindaco"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "_images/banner.jpg"
+html_logo = "_images/banner.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -212,8 +212,8 @@ htmlhelp_basename = settings_basename + 'doc'
 #    ''',
 #}
 
-f = open('latex-styling.tex', 'r+');
-PREAMBLE = f.read();
+# f = open('latex-styling.tex', 'r+');
+# PREAMBLE = f.read();
 
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
@@ -223,7 +223,7 @@ latex_elements = {
  'pointsize': '14pt',
 
 # Additional stuff for the LaTeX preamble. 
- 'preamble': PREAMBLE,
+# 'preamble': PREAMBLE,
 }
 
 # Grouping the document tree into LaTeX files. List of tuples

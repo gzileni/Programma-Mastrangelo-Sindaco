@@ -8,7 +8,7 @@ Salute e Servizi per la Persona
 
 **Il Comune di Gioia del Colle subisce da anni la morte lenta della sanità pubblica, sempre più aggredita da tagli non viene più garantito l’accesso alle cure e le liste d’attesa si allungano.**
 
-L’articolo 32 della Costituzione Italiana dichiara: **l​a Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività e garantisce cure gratuite agli indigenti**.
+L’articolo 32 della Costituzione Italiana dichiara: **la Repubblica tutela la salute come fondamentale diritto dell’individuo e interesse della collettività e garantisce cure gratuite agli indigenti**.
 
 Purtroppo questa garanzia costituzionale è compromessa dallo stato di disavanzo della sanità pubblica che causa disagi alla tutela della propria salute. 
 Una sanità pubblica sempre più insostenibile anche a causa del progressivo invecchiamento della popolazione che richiede sempre più tutele sanitarie con aumento di costi.

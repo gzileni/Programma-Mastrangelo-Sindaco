@@ -31,7 +31,7 @@ La valorizzazione del centro storico, sulla scorta delle più avvedute esperienz
 
 Attività artigianali
 ---------------------
-Riduzione della tariffa per i locali destinati ad attività espositive e le aree scoperte utilizzate per ​attività artigianali.
+Riduzione della tariffa per i locali destinati ad attività espositive e le aree scoperte utilizzate per attività artigianali.
 
 Contro la desertificazione urbana
 ----------------------------------

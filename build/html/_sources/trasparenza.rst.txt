@@ -7,7 +7,7 @@ Trasparenza
 
 **La trasparenza senza nessuna restrizione giuridica non sarà più un mero adempimento burocratico, ma diventerà la regola generale e valore fondamentale.**
 
-L'obiettivo della coalizione sarà quello di rendere quanto più efficace la conoscenza e la lettura semplice dei dati e documenti pubblici ​da parte dei cittadini offrendo siti istituzionali leggibili e percorsi semplificati per l’accesso alle informazioni (`FOIAPop`_).
+L'obiettivo della coalizione sarà quello di rendere quanto più efficace la conoscenza e la lettura semplice dei dati e documenti pubblici da parte dei cittadini offrendo siti istituzionali leggibili e percorsi semplificati per l’accesso alle informazioni (`FOIAPop`_).
 La rendicontazione periodica sarà un nostro impegno per una comunicazione pubblica in grado di favorire sia una trasparenza dell’agire amministrativo, sia una partecipazione dei cittadini alla vita pubblica.
 Sostenere anche economicamente le attività inerenti servizi di e-government, formazione ed educazione alla trasparenza, al riuso e richieste di dati.
 

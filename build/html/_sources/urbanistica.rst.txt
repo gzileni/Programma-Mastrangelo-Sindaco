@@ -38,7 +38,7 @@ Viabilità
 
 "Piano Marshall" per la manutenzione delle strade
 ----------------------------------------------------
-**Piano Marshall per la manutenzione stradale**,​ cronoprogramma delle priorità di interventi mirati volti a garantire sicurezza stradale e decoro urbano. 
+**Piano Marshall per la manutenzione stradale**, cronoprogramma delle priorità di interventi mirati volti a garantire sicurezza stradale e decoro urbano. 
 Una buona parte delle somme ricavate dal recupero dei tributi locali evasi deve essere impiegata per la manutenzione stradale, diventata ormai un emergenza inprorogabile. 
 
 Controllo di interventi di sui tratti urbani da parte di società esterne (Enel, AQP, Società telefoniche, ecc.) che spesso concorrono al degrado della viabilità stradale. 

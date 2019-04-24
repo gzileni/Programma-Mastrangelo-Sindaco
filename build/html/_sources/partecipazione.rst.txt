@@ -8,7 +8,7 @@ Partecipazione, Innovazione e Ricerca
 
 **Coinvolgere cittadini, organizzazioni e imprese nei processi decisionali e nella definizione di politiche locali affinchè possano contribuire con idee, conoscenze e abilità al bene comune e all’efficienza delle amministrazioni.**
 
-La Partecipazione per migliorare l’applicazione dei modelli di ​Open Government e rafforzare il **Civic Engagement** migliorando la qualità delle politiche pubbliche locali e la ricerca e innovazione per lo sviluppo del territorio.
+La Partecipazione per migliorare l’applicazione dei modelli di Open Government e rafforzare il **Civic Engagement** migliorando la qualità delle politiche pubbliche locali e la ricerca e innovazione per lo sviluppo del territorio.
 
 Il dialogo tra i cittadini e le istituzioni in tutti i livelli di attuazione, europeo, nazionale regionale e locale sarà rafforzato con strumenti partecipativi innovativi affinchè si possa strutturare una relazione di reciproca fiducia.
 

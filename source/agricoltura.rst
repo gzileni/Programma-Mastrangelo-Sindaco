@@ -42,9 +42,14 @@ Ripristinare servizi essenziali per la comunità montana partendo dalle necessi
 - potenziamento della rete Internet per le famiglie di allevatori residenti nell'agro gioiese.
 
 -------------------------------
-Tavolo Verde, la nostra terra.
+Tavolo #MadeinGioiadelColle
 -------------------------------
-Tavolo Verde di partecipazione e co-progettazione di proposte, strategie insieme alle Associazioni di categoria, **Pro Loco**, Consorzi di Produttori del Vino per la valorizzazione e tutela della nostra produzione agricola.
+.. image:: ./_images/dop.jpg
+  :width: 100%
+  :alt: Partecipazione
+  :align: center
+
+Tavolo di partecipazione e co-progettazione di proposte e strategie insieme alle Associazioni di categoria, **Pro Loco**, Consorzi di Produttori del Vino e della mozzarella DOP per la valorizzazione, innovazione, promozione e tutela della nostra produzione agricola, la filiera lattiero-casearia, il nostro latte e i prodotti tipici locali enogastronomici e artigianali.
 
 `Campagna Amica`_ a KM0
 ------------------------
@@ -57,15 +62,13 @@ Istituire una giornata periodica da dedicare alla Campagna Amica nel Mercato Com
 Istituire attività di promozione dei prodotti locali durante lo svolgimento del mercato settimanale.
 Concessione di aree pubbliche dell'attuale Mercato Coperto da destinare alle aziende agricole, per la promozione dei prodotti tradizionali locali a KM0.
 
--------------------------------
-Tavolo Bianco, il nostro oro.
--------------------------------
-.. image:: ./_images/dop.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
+Siero del Latte, da rifiuto a risorsa economica
+------------------------------------------------
+L’obiettivo è promuovere la realizzazine di una filiera produttiva integrata cha vada dai produttori della materia prima insieme ad Associazioni di categoria e Consorzio dei Produttori della mozzarella DOP, fino alla trasformazione finale per le imprese dolciarie e farmaceutiche.
 
-Tavolo Bianco di partecipazione e co-progettazione insieme al Consorzio di produttori della futura Mozzarella DOP di Gioia del Colle, Associazioni di categoria, **Pro Loco**, Università e Centri di Ricerca per sviluppare insieme strumenti per monitorare, valorizzare ed innovare la filiera lattiero-casearia, promuovere la tutela della qualità e valorizzazione del latte e dei suoi prodotti.
+Denominazione Comunale (DE.CO.)
+----------------------------------
+Applicazione del `Regolamento ​DECO`_ (Approvato in Consiglio Comunale di Gioia del Colle con Delibera n.12 del 05/04/2017) per la valorizzazione delle produzioni locali affinché si costituisca una commissione insieme alla Pro Loco, di rappresentanti del settore produttivi locale, il turismo e commercio, con l'obiettivo di attivare percorsi volti alla valorizzazione e sfruttamento delle possibilità offerte da tutti i prodotti tipici enogastronomici e dell'artigianato locale.
 
 Tracciabilità e BlockChain
 -------------------------------
@@ -88,19 +91,6 @@ Infatti l’adesione dell’Italia alla `Blockchain Partnership`_ , l’istituzi
 L’Italia è leader assoluto nel campo delle eccellenze agroalimentari, sono un settore strategico per lo sviluppo dell'economia come si legge anche dal `Report Attività 2018`_ del Ministero delle politiche agricole alimentari, forestali e del turismo (Mipaaft).
 
 Il settore agricolo è in evoluzione e la **tecnologia blockchain** rafforzerà la tracciabilità proteggendo il futuro marchio DOP della mozzarella da frodi alimentari, ed invasioni di prodotto estero di scarsa qualità.
-
-Siero del Latte, da rifiuto a risorsa economica
-------------------------------------------------
-L’obiettivo è promuovere la realizzazine di una filiera produttiva integrata cha vada dai produttori della materia prima insieme ad Associazioni di categoria e Consorzio dei Produttori della mozzarella DOP, fino alla trasformazione finale per le imprese dolciarie e farmaceutiche.
-
-------------------------------------
-Tavolo Rosso, le nostre tradizioni
-------------------------------------
-Tavolo di co-progettazione insieme alla **Pro Loco**, stakeholder, Consorzi di produttori agricoli, Coldiretti e Associazioni di categoria per la valorizzazione dei prodotti tipici locali enogastronomici e artigianali.
-
-Denominazione Comunale (DE.CO.)
-----------------------------------
-Applicazione del `Regolamento ​DECO`_ (Approvato in Consiglio Comunale di Gioia del Colle con Delibera n.12 del 05/04/2017) per la valorizzazione delle produzioni locali affinché si costituisca una commissione insieme alla Pro Loco, di rappresentanti del settore produttivi locale, il turismo e commercio, con l'obiettivo di attivare percorsi volti alla valorizzazione e sfruttamento delle possibilità offerte da tutti i prodotti tipici enogastronomici e dell'artigianato locale.
 
 
 .. [#1] Le norme sulle tecnologie basate su registri distribuiti e smart contracts sono contenute nella Legge 11 febbraio 2019, n. 12 di conversione in legge del decreto-legge 14 dicembre 2018, n. 135, recante “Disposizioni urgenti in materia di sostegno e semplificazione per le imprese e per la pubblica amministrazione”

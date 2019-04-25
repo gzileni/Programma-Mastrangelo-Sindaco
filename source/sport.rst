@@ -6,13 +6,18 @@ Sport
   :align: center
 
 **Lo sport è momento di educazione, socializzazione e cura.**
-Lo sport è uno strumento per lo sviluppo completo e armonico della personalità dei nostri giovani, quindi del nostro futuro, le associazioni e società sportive hanno un ruolo fondamentale in questo percorso di crescita, saranno il nostro punto di riferimento per tutte le nostre politiche di diffusione della pratica sportiva.
-I parchi con attrezzature e spazi sportivi, insieme alle piste ciclabili sono luoghi ideali in cui fare pratica sportiva non agonistica, soprattutto per tutti coloro che vogliono praticare sport senza essere associati. 
+Lo sport è uno strumento per lo sviluppo completo e armonico della personalità dei nostri giovani, quindi del nostro futuro; le associazioni e società sportive hanno un ruolo fondamentale in questo percorso di crescita, saranno il nostro punto di riferimento per tutte le nostre politiche di diffusione della pratica sportiva.
+
 L'importanza dell'attività motoria e sportiva non è riconducibile al solo benessere fisico, ma essa assume una fondamentale funzione di carattere culturale, sociale e formativa nonchè strumento di integrazione.
+Dobbiamo assicurare lo **SPORT A TUTTI** e, ancor di più, ai ragazzi le cui famiglie non possono economicamente sostenere la relativa spesa.
+
+**Fare sport sarà un diritto assicurato a tutti i ragazzi.**
 
 La pessima politica di gestione e la manutenzione degli impianti sportivi negli ultimi anni, ha creato una situazione di disagio e seri problemi senza precedenti per tutte le società sportive.
+
 Alcune discipline sportive sono state addiritture costrette a trasferirsi in altre città per poter disputare le gare e allenamenti del proprio campionato agonistico. 
-E' necessario riportare ad un **livello base** di efficienza gli impianti, affinchè le società e associazioni sportive gioiesi possano ritornare a svolgere le loro attivitò nella nostra città.
+
+E' necessario riportare ad un **livello base** di efficienza gli impianti, affinchè le società e associazioni sportive gioiesi possano ritornare a svolgere le loro attività nella nostra città.
 
 Sarà necessario pianificare una attenta politica volta all'incremento della pratica sportiva attraverso:
 
@@ -24,9 +29,9 @@ Sarà necessario pianificare una attenta politica volta all'incremento della pra
 6. Coordinare e promuovere la cooperazione delle associazioni/società sportive presenti sul territorio al fine armonizzare ed equilibrare i principali filoni dello sport giovanile, sport per tutti e sport di alto livello;
 7. Garantire l'adeguata rappresentanza ed il confronto continuo alle società sportive al fine di rendere partecipi dei procedimenti decisionali gli operatori;
 8. Attivare collaborazioni con il mondo imprenditoriale per lo sviluppo degli impianti sportivi, il loro utilizzo in ambito pubblicitario nonchè per la promozione di spettacoli.
-9. Consentire alle società sportive il pieno utilizzo e l'accesso alle strutture sportive nelle ore prestabilite, prevedendo altresì l'individuazine di un responsabile per ciascuna di essa. 
-10. Garantire la fruizione giornaliera della pista di atletica del campo Martucci per svolgere liberamente le attività di Running.
-11. Promuovere una collaborazione delle società sportive che svolgono la medesima attività al fine di istituire un vivaio giovanile idoneo a consentire la crescita agonistica senza lasciare il territorio, riconoscendo adeguate premialità a chi opererà in questa direzione.
+9. Consentire alle società sportive il pieno utilizzo e l'accesso alle strutture sportive nelle ore prestabilite, prevedendo altresì l'individuazine di un responsabile per ciascuna di essa che possa anche garantire l'accesso in caso di necessità e/o impossibilità della ditta che gli garantisce il servizio.
+10. Garantire la fruizione giornaliera della pista di atletica del campo Martucci per svolgere liberamente le attività di Running, sottoscrivendo apposito protocollo d'intesa con le locali associazioni di running;
+11. Promuovere una collaborazione delle società sportive che svolgono la medesima attività al fine di creare un vivaio giovanile idoneo a consentire la crescita agonistica senza lasciare il territorio, riconoscendo adeguate premialità a chi opererà in questa direzione.
 
 .. image:: ./_images/atletica.jpg
   :width: 100%
@@ -36,7 +41,8 @@ Sarà necessario pianificare una attenta politica volta all'incremento della pra
 ------------------------------------------------
 PalaKuznetzov
 ------------------------------------------------
-Il Palazzetto PalaKuznetzov ha una pavimentazione omologata solo per il Volley, sarà necessario cambiarla con una superficie multifunzionale, adatta anche per altre discipline sportive.
+Il Palazzetto PalaKuznetzov ha una pavimentazione omologata solo per il Volley, sarà necessario, attivandosi con immediatezza per la ricerca di fondi necessari, cambiarla con una superficie multifunzionale, adatta anche per altre discipline sportive.
+**Impegno economico importante ma non più rimandabile.**
 
 -------------------------------
 Partenariato Pubblico-Privato
@@ -66,7 +72,7 @@ Il contratto attuale per la pulizia e gestione degli impianti sportivi non è su
 
 Ufficio Sport
 --------------
-L'ufficio Sport sarà riorganizzato in una nuovo organigramma di servizi comunali, affinchè possa gestire gli spazi con maggiore efficienza.
+L'ufficio Sport sarà riorganizzato in un nuovo organigramma di servizi comunali, affinchè possa gestire gli spazi con maggiore efficienza.
 
 --------------------------
 Nuove strutture sportive

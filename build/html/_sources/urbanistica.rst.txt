@@ -39,8 +39,15 @@ A tal propostito si precisa che, entro il rispetto del `PPTR`_ e delle norme del
 -----------------------------
 Ufficio Tecnico efficiente
 -----------------------------
-Negli ultimi anni gli uffici comunali hanno subito troppi avvicendamenti di personale responsabile che hanno compromesso l'efficienza degli stessi. 
-L'amministrazione dovrà avvalersi delle migliori competenze sukl mercato a cui affidare la responsabilità dell'Ufficio Tecnico. 
+Negli ultimi anni gli uffici comunali hanno subito troppi avvicendamenti di personale che hanno compromesso l'efficienza degli stessi. 
+
+L'amministrazione dovrà avvalersi delle migliori competenze sul mercato a cui affidare la responsabilità dell'Ufficio Tecnico. 
+
+---------------------
+Problematica COOP 
+---------------------
+Con riferimento al problema COOP bisognerà individuare nell'ambito del personale tecnico del Comune, la figura di un soggetto che faccia da interlocutore costante con la Regione Puglia per accellerare e concludere tutti gli adempimenti necessari al completamento della procedura in essere.
+Compito dell'Amministrazione sarà quello di assegnare assoluta priorità alla risoluzione del problema ancora oggi irrisolto.
 
 -------------------
 Viabilità
@@ -48,7 +55,7 @@ Viabilità
 
 "Piano Marshall" per la manutenzione delle strade
 ----------------------------------------------------
-**Piano Marshall per la manutenzione stradale**, cronoprogramma delle priorità di interventi mirati volti a garantire sicurezza stradale e decoro urbano. 
+**Piano Marshall per la manutenzione stradale**, cronoprogramma delle priorità di interventi mirati a garantire sicurezza stradale e decoro urbano. 
 Una buona parte delle somme ricavate dal recupero dei tributi locali evasi deve essere impiegata per la manutenzione stradale, diventata ormai un emergenza inprorogabile. 
 
 Controllo di interventi di sui tratti urbani da parte di società esterne (Enel, AQP, Società telefoniche, ecc.) che spesso concorrono al degrado della viabilità stradale. 

@@ -20,11 +20,7 @@ La digitalizzazione completa del Comune di Gioia del Colle è una missione fonda
 ----------------------------------------------------
 Strategia Digitale per il Comune di Gioia del Colle
 ----------------------------------------------------
-Le richieste dei cittadini saranno il carburante che alimenterà il motore dell’evoluzione digitale del Comune di Gioia del Colle, innescando un meccanismo virtuoso che consentirà di allentare la pressione sui costi restituendo ossigeno al bilancio comunale.
-
 Occorrerà innanzitutto potenziare le competenze dei dipendenti pubblici, che dovranno essere in grado di affrontare la costante evoluzione della comunicazione con i cittadini.
-
-Nell’era digitale il Cittadino dovrà essere soddisfatto in tutte le sue esigenze, con l’attuale tecnologia possiamo di sviluppare servizi digitali fruibili con smartphone e tablet, che semplificheranno la vita di ognuno di noi e velocizza il processo della completa digitalizzazione del proprio Ente.
 
 La Strategia per una digitalizzazione totale del Comune avrà 3 (tre) punti fondamentali:
 
@@ -39,20 +35,17 @@ Si dovrà partire sfruttando le opportunità esistenti grazie alle principali pi
 ^^^^^^^^
 SPID
 ^^^^^^^^
-Il portale **eGov** è accessibile tramite `SPID` (Sistema Pubblico per la gestione dell’identità digitale, utilizzabile da computer, tablet e smartphone.
+Il portale **eGov** è accessibile tramite `SPID` (Sistema Pubblico per la gestione dell’identità digitale), utilizzabile da computer, tablet e smartphone.
 
 ^^^^^^^^
 PagoPA
 ^^^^^^^^
 `PagoPA`_ è il sistema di pagamenti elettronici verso la Pubblica Amministrazione con il quale si possono pagare le tasse, prestazioni sanitarie, iscrizioni scolastiche e molto altro in maniera sicura e veloce.
 
+Tale servizio deve essere diffuso ai cittadini ed alle imprese per ridurre i tempi e, al contempo, l'impiego del personale.
+
 .. raw:: html
    :file: pagopa.html
-
-^^^^^^^^^
-FOIA Pop
-^^^^^^^^^
-`FOIAPOP`_ crea la richiesta di accesso civico semplice e generalizzato a partire dagli opendata, per permettere a tutti i cittadini di diventare parte attiva in grado di conoscere come vengono spesi i soldi pubblici e soprattutto cosa finanziano.
 
 Cosa faremo
 ------------
@@ -73,6 +66,7 @@ Il Comune di Gioia del Colle è subentrato a `ANPR (Anagrafe Nazionale della Pop
 Con l’**ANPR** sarà possibile accedere ai propri dati e certificati anagrafici in qualsiasi momento evitando il tempo impiegato per le richieste e le conseguenti risposte degli operatori comunali. Il cittadino potrà richiedere certificati anagrafici in qualsiasi Comune, non solo in quello di residenza, oppure collegandosi alla rete in qualsiasi momento, con risparmio di tempo e risorse sulla gestione del personale comunale.
 
 Una banda dati ANPR disponibile per tutte le aree dei servizi comunali diventando la prima innovazione concreta verso **una vera l’interoperabilità delle banche dati comunali**.
+Tale servizio deve essere rapidamente diffuso ed utilizzato.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 CLOUD
@@ -88,6 +82,11 @@ Il sito istituzionale con i servizi pubblici del Comune di Gioia del Colle saran
 Open Source
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Impegno del Comune ad adottare il più possibile soluzioni a codice sorgente aperto (open source) per favorire l’indipendenza dai fornitori, la sicurezza e l’accessibilità al patrimonio informativo pubblico
+
+--------------------
+Crowdfunding Civico
+--------------------
+Aggiornare lo Statuto Comunale affinchè possa contemplare strumenti di partecipazione innovativi come il `Crowdfunding Civico`_.
 
 -------------
 BlockChain
@@ -107,7 +106,6 @@ La tecnologia BlockChain può aiutare la Pubblica Amministrazione ad implementar
 .. _eGov: https://egov.ba.it
 .. _SPID: https://www.spid.gov.it
 .. _PagoPA: https://www.agid.gov.it/it/piattaforme/pagopa
-.. _FOIAPOP: http://www.foiapop.it/ente/6f46f254-0ff0-40cd-be4f-f354ee3ccc88/scegli
 .. _ANPR (Anagrafe Nazionale della Popolazione Residente): https://www.anpr.interno.it/portale/
 .. _5 Novembre 2018: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&uact=8&ved=2ah UKEwjhybiJ2ZLgAhWuNOwKHW5jDr4QFjAJegQICRAC&url=https%3A%2F%2Fwww.anpr.interno.it%2F portale%2Fdocuments%2F20182%2F50186%2FComuni%2Bsubentrati%2B16112018.xlsx%2Fa33214 b3-e6e0-49fe-9c80-f1d5527fb61a&usg=AOvVaw2GCpi4nxWtJus879iA7Rkl
 .. _Anagrafe alla banca dati nazionale: http://dgegovpa.it/Gioiadelcolle/albo/dati/20160859D.PDF

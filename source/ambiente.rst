@@ -12,28 +12,7 @@ Gli spazi verdi sono aree urbane che permettono di migliorare sensibilmente il b
 
 Il problema del traffico veicolare è una delle principali fonti di malattie croniche alle vie respiratorie, è necessario limitare notevolmente l’inquinamento prodotto insieme alle pericolose discariche abusive nelle campagne del territorio gioiese, spesso con rifiuti speciali e pericolosi come l’amianto, in aumento a causa del fenomeno fisiologico di abbandono rifiuti per la raccolta differenziata.
 
--------------------------------------
-Gioia del Colle città "Pet Friendly"
--------------------------------------
-.. image:: ./_images/pet_friendly.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
-Il Comune di Gioia del Colle deve diventare pet friendly, spazi verdi vivibili per gli animali e per chi li ama, senza creare problemi agli altri cittadini che potrebbero essere intimoriti o infastiditi dalla presenza degli animali. Gli animali domestici sono in costante aumento nelle famiglie italiane, sarà necessario progettare nuovi spazi verdi attrezzati cercando di riqualificare zone altrimenti abbandonate al degrado. In questi spazi gli animali domestici, i cani in particolare, possono giocare tranquillamente e socializzare tra loro. L’accesso a queste aree verdi attrezzate sarà regolamentato e controllato affinché possano essere autorizzate al meglio.
-Il Comune di Gioia del Colle contrasterà il fenomeno degli abbandoni degli animali in costante aumento.
-
-"Parco degli affetti" il `primo cimitero per Animali`_
--------------------------------------------------------
-Individuazione di un terreno pubblico da affidare in gestione ad un’associazione tramite bando pubblico per dare degna sepoltura ai propri animali domestici.
-
-Canile Municipale
-------------------
-Completare la messa a norma del canile sanitario e ampliare le infrastrutture esistenti per fornire un servizio di adozione efficiente per la città.
-
-Bonus "Cane"
--------------
-Con il "bonus cane" un gesto d’amore può trasformarsi anche in un buon investimento, un incentivo con benefici fiscali per chi decide di adottare un cane dal canile municipale.
+Sarà compito dell'Amministrazione attivare ogni forma di prevenzione e controllo al fine di reperire il più elevato standard qualitativo ambientale.
 
 -------------
 Air Quality
@@ -54,6 +33,34 @@ Attività di sensibilizzazione ambientale insieme all’ARPA, e progetti di form
 Lotta alle discariche abusive
 -------------------------------
 Incremento dei controlli nelle campagne gioiesi del fenomeno delle discariche abusive con l’installazione di fototrappole.
+
+-------------------------------------
+Gioia del Colle città "Pet Friendly"
+-------------------------------------
+.. image:: ./_images/pet_friendly.jpg
+  :width: 100%
+  :alt: Partecipazione
+  :align: center
+
+Il Comune di Gioia del Colle deve diventare pet friendly, spazi verdi vivibili per gli animali e per chi li ama, nel rispetto delle condivisione del senso civico che devono adottare i proprietari degli amici a 4 zampe.
+
+Sarà necessario progettare nuovi spazi verdi attrezzati cercando di riqualificare zone altrimenti abbandonate al degrado. In questi spazi gli animali domestici, i cani in particolare, potranno giocare e socializzare tra loro. 
+
+Tali aree verdi saranno controllate constantemente affinchè ogni proprietario comportamenti improntati al rispetto igienico sanitario.
+
+La esistente area DOG sarà bonificata e ripulita. I proprietari che non rispettano l'obbligo di raccolta delle deiezioni canili, al contempo saranno sanzionati come per legge.
+
+"Parco degli affetti" il `primo cimitero per Animali`_
+-------------------------------------------------------
+Individuazione di un terreno pubblico da affidare in gestione ad un’associazione tramite bando pubblico per dare degna sepoltura ai propri animali domestici.
+
+Canile Municipale
+------------------
+Bisognerà completare la messa a norma del canile sanitario e ampliare le infrastrutture esistenti per fornire un servizio di adozione efficiente per la città.
+
+Bonus "Cane"
+-------------
+Con il "bonus cane" un gesto d’amore può trasformarsi anche in un buon investimento; si potrà prevedere un incentivo fiscale per chi deciderà di adottare un cane dal canile municipale.
 
 ------------------------
 Un albero per ogni nato

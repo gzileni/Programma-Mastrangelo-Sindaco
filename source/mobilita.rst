@@ -6,13 +6,16 @@ Mobilità sostenibile
   :alt: Mobilita
   :align: center
 
-**Il benessere del cittadino dipende dall’impatto della mobilità della città su di esso, più è sostenibile più benefici ci saranno sull’uomo e sull’ambiente.**
+**Il benessere del cittadino dipende in buona parte dal livello di mobilità sostenibile.**
 
 Se esistono percorsi pedonali, piste ciclabili insieme ad un efficiente trasporto pubblico il cittadino abbandonerà i mezzi privati, queste tre variabili insieme contribuiscono ad avere mobilità sostenibile.
-Un servizio trasporti efficiente migliora il traffico e riduce l’inquinamento acustico e atmosferico, oltre ai benefici economici per le famiglie sulle spese legate all’utilizzo dell’auto. Purtroppo la cultura della mobilità sostenibile non è molto diffusa, oltre ad una parziale sfiducia nei confronti delle reti pubbliche di trasporti.
-Per il benessere dei cittadini e dell’ambiente del territorio è necessario che il Comune di Gioia del Colle sia concretamente attivo nello sviluppo di una rete urbana di trasporti pubblici efficiente.
 
-Le azioni fino ad oggi effettuate sul territorio di Gioia del Colle, nonostante i buoni propositi delle ultime amministrazioni, con incontri tematici, chiusure del traffico e con qualche finanziamento approvato, non hanno prodotto quel cambiamento culturale e sostanziale volto a ridurre la dipendenza dal traffico automobilistico individuale. Ciò è confermato dal netto incremento del Tasso di Motorizzazione presente in città dal 2002, ottenuto dal rapporto tra vetture circolanti ogni 1000 abitanti, i cui risultati sono i seguenti:
+Purtroppo la cultura della mobilità sostenibile non è praticata, nonostante la presenza di importanti associazioni che promuovono la politica 
+Il Comune di Gioia del Colle deve essere concretamente attivo nello sviluppo di una rete urbana di trasporto pubblico efficiente ed effettivamente funzionale alle esigenze dei cittadini.
+
+Le azioni fino ad oggi effettuate sul territorio di Gioia del Colle, nonostante i buoni propositi delle ultime anni diretti ad organizzare incontri tematici, chiusure del traffico e con qualche finanziamento approvato, non hanno prodotto quel cambiamento culturale e sostanziale volto a ridurre la dipendenza dal traffico automobilistico individuale. 
+
+Ciò è confermato dal netto incremento del Tasso di Motorizzazione presente in città dal 2002, ottenuto dal rapporto tra vetture circolanti ogni 1000 abitanti.
 
 -------------------------------
 Riduzione del Traffico
@@ -26,19 +29,17 @@ Potenziamento delle aree a sosta regolamentata, con disco orario, al fine di mig
 Gioia del Colle nodo strategico
 ---------------------------------
 Gioia del Colle è in una posizione geografica strategica, crocevia di rete ferroviaria e stradale, in particolare per i tanti autobus che transitano nel tratto di Via Federico II di Svevia frequentato da tantissimi pendolari e studenti.
+
 L’autobus è sempre stato un mezzo di trasporto per tutti, esistono servizi low cost flessibili e convenienti che soddisfano il passeggero e contribuiscono alla riduzione di CO2.
-La fermata di Via Federico II di Svevia deve essere rigenerata affinché i viaggiatori possano essere accolti nella nostra città nel migliore dei modi.
+
+La fermata di Via Federico II di Svevia deve essere rigenerata affinché i viaggiatori possano essere accolti nella nostra città nel migliore dei modi e l'attesa dell'arrivo dei mezzi resa adeguatamente confortevole.
 
 Stipulare accordi con tutte le agenzie di trasporto per creare nuove fermate extraurbane per le destinazioni nei paesi limitrofi e Bari, come ad esempio **Via dei Peuceti presso il Quartiere Rinascita, zona Colle delle Gioie**.
 
-----------------------
-Muoversi liberamente
-----------------------
-Potenziamento del blocco del traffico domenicale nell’area *Via Roma/Piazza Plebiscito/Via Armando Celiberti/Via Carducci*, 
-
+--------------------------------------------------
 Barriere Architettoniche
 --------------------------------------------------
-Migliorare gli accessi ai marciapiedi da parte dei disabili, effettuando una mappatura degli interventi e poi procedendo con gli adeguamenti, qualora sia possibile garantire uno spostamento in sicurezza.
+Migliorare gli accessi ai marciapiedi da parte dei diversamente abili, effettuando una mappatura degli interventi e poi procedendo con gli adeguamenti, qualora sia possibile garantire uno spostamento in sicurezza.
 
 ----------------------------
 Una città amica della bici
@@ -51,14 +52,16 @@ Predisposizione ed adozione del `PUMS (Piano Urbano della Mobilità Sostenibile)
 
 Piste ciclabili
 ----------------------
-Valutazione della possibilità di installare percorsi ciclabili in sede fissa riducendo gli spazi di sosta delle vetture private o con rimodulazione del traffico viario. 
+Sarà doveroso valutare la possibilità di installare percorsi ciclabili in sede fissa riducendo gli spazi di sosta delle vetture private o con rimodulazione del traffico viario. 
 Tali percorsi dovranno tener conto della domanda da parte della cittadinanza, evitando gli errori del passato.
 
 Installazione di rastrelliere
 ---------------------------------
-Istituzione di spazi di deposito pubblici per la bicicletta ed i mezzi di micromobilità in prossimità di stazioni e di fermate degli autobus a medio/lunga percorrenza, al fine di garantire l’intermodalità.
-Ad esempio il passaggio alla raccolta differenziata ha permesso di eliminare i cassonetti dei rifiuti lasciando alcuni spazi che potrebbero essere utili per il decoro urbano a favore di di della mobilità sostenibile.
-Installare rastrelliere di ultima generazione in questi spazi vuoti per favorire l’uso di bici in città recuperebbe spazi che altrimenti resterebbero vuoti.
+Si potranno creare spazi di deposito pubblici per la bicicletta e mezzi di micromobilità in prossimità di stazioni e di fermate degli autobus a medio/lunga percorrenza, al fine di garantire l’intermodalità.
+
+Ad esempio il passaggio alla raccolta differenziata ha permesso di eliminare i cassonetti dei rifiuti lasciando alcuni spazi che potrebbero essere utili per il decoro urbano a favore della mobilità sostenibile.
+
+Installare rastrelliere di ultima generazione in questi spazi vuoti per favorire l’uso di bici in città recuperebbe spazi che altrimenti resterebbero vuoti ed al contempo aumenterebbero la possibilità di raggiungere postazioni di arrivo/partenza con la bicicletta.
 
 .. image:: ./_images/rastr_1.jpg
   :width: 100%

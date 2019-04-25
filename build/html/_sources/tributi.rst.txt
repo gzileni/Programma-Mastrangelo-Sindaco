@@ -6,8 +6,9 @@ Tributi
   :align: center
 
 Negli ultimi anni il servizio di riscoissione tributi nonostante fosse gestito con il supporeto di una società privata esterna, non ha garantito un'efficace attività di riscossione che ha determinato l'accumularsi di crediti insoluti.
-Tale inefficienza ha impedito all'ente dfi utilizzare le risorse in entrata per svolgere le proprie funzioni basilari.
-Obiettivo primario sarà quello di monitorare l'attività di recupero efficacemente in tutte le fasi indispensabioli all'effettivo incasso delle somme dovute.
+Tale inefficienza ha impedito all'ente di utilizzare le risorse in entrata per svolgere le proprie funzioni basilari.
+
+Obiettivo primario sarà quello di monitorare l'attività di recupero efficacemente in tutte le fasi indispensabili all'effettivo incasso delle somme.
 
 Constrastare il fenomeno dell’evasione dei tributi comunali per un sistema fiscale più equo e sostenibile per famiglie e imprese.
 

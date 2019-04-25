@@ -49,7 +49,7 @@ Tavolo #MadeinGioiadelColle
   :alt: Partecipazione
   :align: center
 
-Tavolo di partecipazione e co-progettazione di proposte e strategie insieme alle Associazioni di categoria, **Pro Loco**, Consorzi di Produttori del Vino e della mozzarella DOP per la valorizzazione, innovazione, promozione e tutela della nostra produzione agricola, la filiera lattiero-casearia, il nostro latte e i prodotti tipici locali enogastronomici e artigianali.
+Tavolo di partecipazione e co-progettazione di proposte e strategie insieme alle Associazioni di categoria, **Pro Loco**, Consorzi di Produttori del Vino, della mozzarella DOP, Allevatori e Agricoltori per la valorizzazione, innovazione, promozione e tutela della nostra produzione agricola, la filiera lattiero-casearia, il nostro latte e i prodotti tipici locali enogastronomici e artigianali.
 
 `Campagna Amica`_ a KM0
 ------------------------
@@ -58,7 +58,7 @@ Tavolo di partecipazione e co-progettazione di proposte e strategie insieme alle
   :alt: Partecipazione
   :align: center
 
-Istituire una giornata periodica da dedicare alla Campagna Amica nel Mercato Comunale coperto e il tratto di Viale Regina Elena insieme alla Coldiretti, per promuovere le eccellenze della filiera agricola locale dal produttore al consumatore e a KM0.
+Istituire una giornata periodica da dedicare alla Campagna Amica nel Mercato Comunale coperto e il tratto di Viale Regina Elena insieme alla Coldiretti, per promuovere le eccellenze della filiera agricola locale dal produttore al consumatore a KM0.
 Istituire attività di promozione dei prodotti locali durante lo svolgimento del mercato settimanale.
 Concessione di aree pubbliche dell'attuale Mercato Coperto da destinare alle aziende agricole, per la promozione dei prodotti tradizionali locali a KM0.
 
@@ -68,7 +68,7 @@ L’obiettivo è promuovere la realizzazine di una filiera produttiva integrata 
 
 Denominazione Comunale (DE.CO.)
 ----------------------------------
-Applicazione del `Regolamento ​DECO`_ (Approvato in Consiglio Comunale di Gioia del Colle con Delibera n.12 del 05/04/2017) per la valorizzazione delle produzioni locali affinché si costituisca una commissione insieme alla Pro Loco, di rappresentanti del settore produttivi locale, il turismo e commercio, con l'obiettivo di attivare percorsi volti alla valorizzazione e sfruttamento delle possibilità offerte da tutti i prodotti tipici enogastronomici e dell'artigianato locale.
+Applicazione e aggiornamento del `Regolamento ​DECO`_ (Approvato in Consiglio Comunale di Gioia del Colle con Delibera n.12 del 05/04/2017) per la valorizzazione delle produzioni locali affinché si costituisca una commissione insieme alla Pro Loco, di rappresentanti del settore produttivo locale, il turismo e commercio, con l'obiettivo di attivare percorsi volti alla valorizzazione e sfruttamento delle possibilità offerte da tutti i prodotti tipici enogastronomici e dell'artigianato locale.
 
 Tracciabilità e BlockChain
 -------------------------------

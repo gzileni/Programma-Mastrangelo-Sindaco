@@ -10,9 +10,9 @@ Servizi pubblici più efficienti significa migliorare la vita delle persone e i 
 Un Comune come Gioia del Colle non può continuare ad operare in carenza di organico così come avvenuto fino ad oggi.
 La prima sfida da affrontare sarà quella di **riorganizzare le aree e i servizi attraverso una puntuale e rigorosa individuazione dei compiti e dei centri di responsabilità**.
 
-**Utilizzare tutte le risorse economiche rinvenienti dal personale prossimo al pensionamento** per procedere ad un adeguato ricambio generazionale che porti nuove competenze per modernizzare i servizi ai fabbisogni dei cittadini.
+**Utilizzare tutte le risorse economiche rinvenienti dal personale prossimo al pensionamento** per procedere ad un adeguato ricambio generazionale che porti nuove competenze per modernizzare i servizi adeguati ai fabbisogni dei cittadini.
 
-Il nuovo personale dovrà essere individuato attraverso profili professionali altamente qualificati in grado di portare quella innovazione tecnologica per consentire all'ente un salto di qualità.
+Il nuovo personale dovrà essere individuato attraverso profili professionali altamente qualificati in grado di portare quella innovazione tecnologica indispensabile a consentire all'ente un salto di qualità.
 E’ necessario ridurre l'apparato burocratico con una cultura dell’organizzazione dei servizi comunali che permetta di raggiungere un modello di tipo manageriale, basato su competenza, responsabilità e orientamento al risultato per perfezionare la risposta, il benessere e la qualità della vita dei cittadini e aziende.
 
 L'impegno sarà rivolto a raggiungere un elevato livello di gestione digitale dei servizi per ridurre al minimo discrezionalità e tempi di attesa.
@@ -32,7 +32,7 @@ Le risorse destinate alle premialità in favore dei funzionari saranno erogate a
 ----------------------------------------
 Prenotazioni online 
 ----------------------------------------
-Sarà istituito un servizio di prenotazione online per i cittadini, imprese e tecnici affinchè Responsabili delle aree e dei servizi siano disponibili al ricevimento.
+Sarà istituito un servizio di prenotazione online per i cittadini, imprese e tecnici affinchè Responsabili delle aree e dei servizi possono organizzare al meglio il ricevimento al pubblico.
 Lo stesso servizio permetterà di richiedere documenti che potranno essere prenotati online e ritirati in data certa stabilita dall'ufficio competente.  
 
 ----------------------------------------
@@ -46,7 +46,8 @@ Tale servizio consentirà una idonea ed oggettiva valutazione delle criticità a
 Ufficio Progettazione e bandi
 ------------------------------
 Al fine di captare tutte quelle risorse economiche rinvenienti da bandi europei, regionali e sovracomunali sarà istituito un ufficio con questa specifica funzione.
-Tale ufficio avrà il compito ulteriore di seguire tutte le fasi di partecipazione ai bandi dalla progettazione, monitoraggio delle scadenze sino alla corretta rendicontazione economica.
+
+Tale ufficio avrà il compito ulteriore di seguire tutte le fasi di partecipazione ai bandi sin dalla progettazione, monitora scadenze sino alla corretta rendicontazione economica.
 
 ------------------------------
 Potenziamento SUAP 

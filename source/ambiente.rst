@@ -56,10 +56,12 @@ La esistente area DOG sarà bonificata e ripulita. I proprietari che non rispett
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Individuazione di un terreno pubblico da affidare in gestione ad un’associazione tramite bando pubblico per dare degna sepoltura ai propri animali domestici.
 
+'''''''''''''''''''''''''''''''''''''''
 Canile Municipale
 '''''''''''''''''''''''''''''''''''''''
 Bisognerà completare la messa a norma del canile sanitario e ampliare le infrastrutture esistenti per fornire un servizio di adozione efficiente per la città.
 
+'''''''''''''''''''''''''''''''''''''''
 Bonus "Cane"
 '''''''''''''''''''''''''''''''''''''''
 Con il "bonus cane" un gesto d’amore può trasformarsi anche in un buon investimento; si potrà prevedere un incentivo fiscale per chi deciderà di adottare un cane dal canile municipale.

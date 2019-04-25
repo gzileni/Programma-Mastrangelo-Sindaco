@@ -42,6 +42,7 @@ Ripristinare servizi essenziali per la comunità montana partendo dalle necessi
 - la sostituzione del macchinario di erogazione dell'acqua dal pozzo in località Montursi; 
 - potenziamento della rete Internet per le famiglie di allevatori residenti nell'agro gioiese.
 
+-------------------------------
 Tavolo #MadeinGioiadelColle
 -------------------------------
 .. image:: ./_images/dop.jpg

@@ -55,6 +55,8 @@ blockquote {
   margin: 0;
 }
 
+.sign {text-align: right;}
+
 dfn {
   font-style: italic;
 }

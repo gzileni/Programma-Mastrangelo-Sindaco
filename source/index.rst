@@ -30,7 +30,10 @@ Il mio impegno per Gioia del Colle
 
    *Ogni forza politica dovrà avere a cuore non l'interesse di parte ma le sorti della città, solo in tal modo si potranno raggiungere importanti obiettivi ed un effettivo rilancio della nostra amata Gioia del Colle.*
 
-   *Vorrei che i gioiesi tornassero ad essere orgogliosi della loro città.*
+   *Vorrei che i gioiesi tornassero ad essere orgogliosi della loro città.* 
+
+.. raw:: latex 
+   \rightline{Giovanni Mastrangelo}
    
 .. raw:: html
    :file: sign.html

@@ -1,6 +1,6 @@
-------------
 Urbanistica
-------------
+===================================
+
 .. image:: ./_images/urbanistica.jpg
   :width: 100%
   :alt: Urbanistica
@@ -100,4 +100,4 @@ Permetterà ai soggetti privati di compiere erogazioni libere nei confronti del 
 .. _Regolamento sui Beni Comuni: http://www.comune.gioiadelcolle.ba.it/cms/files/c0b3f884-3f80-4495-9c06-691639a435c2
 .. _Linee guida per il recupero e riuso: http://paesaggio.regione.puglia.it/PPTR_2013_07/4._Lo%20scenario%20strategico/4.4_Linee%20guida/4.4.6_Manufatti%20rurali.pdf
 .. _PPTR: https://www.paesaggiopuglia.it/pptr/tutti-gli-elaborati-del-pptr/4-lo-scenario-strategico.html
-.. _legge urbanistica n.1150: http://www.legislazionetecnica.it/52228/fonte/l-17-08-1942-n-1150
+.. _legge urbanistica n. 1150: http://www.legislazionetecnica.it/52228/fonte/l-17-08-1942-n-1150

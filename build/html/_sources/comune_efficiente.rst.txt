@@ -1,6 +1,6 @@
--------------------------------------------------------------
 Efficienza e riorganizzazione della macchina amministrativa 
--------------------------------------------------------------
+======================================================================
+
 .. image:: ./_images/comune.jpg
   :width: 100%
   :alt: Comune Efficiente

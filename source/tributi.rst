@@ -1,6 +1,6 @@
---------
 Tributi
---------
+===================================
+
 .. image:: ./_images/economia.jpg
   :width: 100%
   :alt: Partecipazione

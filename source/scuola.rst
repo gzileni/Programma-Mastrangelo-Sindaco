@@ -1,6 +1,5 @@
------------------------------
 Scuole e Pubblica Istruzione
------------------------------
+===================================
 
 Numerosi e prestigiosi da punto di vista storico e della memoria culturale sono gli edifici scolastici del territorio di Gioia del Colle. 
 **Le scuole elementari San Filippo Neri e Mazzini, i Licei Classico Virgilio e Scientifico Canudo, l'Istituto Tecnico Galilei**, testimoniano il prestigio e la qualità sia degli studenti che nei decenni si sono avvicendati nelle Aule Scolastiche, sia degli illusti Insegnanti - veri e propri Maestri Vita, Etica e Moralità.

@@ -1,12 +1,13 @@
 ----------
 Sicurezza
-----------
-**La qualità della vita e la sicurezza urbana rappresentano un diritto dei cittadini.**
+===================================
 
 .. image:: ./_images/sicurezza.jpg
   :width: 100%
   :alt: Partecipazione
   :align: center
+
+**La qualità della vita e la sicurezza urbana rappresentano un diritto dei cittadini.**
 
 La sicurezza deve essere garantita con l’azione coordinata di più livelli di governo e dal bilancio comunale. 
 Il Comune in accordo con la Prefettura deve attenuare quella sensazione di insicurezza dei cittadini, prevenendo e contrastando quei disagi legati a forme di degrado sociale, ambientale, urbano o comportamenti che ostacolano la convivenza civile.

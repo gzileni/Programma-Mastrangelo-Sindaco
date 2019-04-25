@@ -7,6 +7,11 @@
 Il mio impegno per Gioia del Colle 
 ===================================
 
+.. image:: ./_images/banner.png
+  :width: 100%
+  :alt: Coalizione di Centro Destra
+  :align: center
+
 .. highlights::
 
    *Il percorso che mi ha portato a scrivere insieme alle liste che sostengono la mia candidatura a Sindaco di Gioia del Colle è stato avviato dal rapporto diretto con i cittadini, le Associazioni di categoria, le Associazioni culturali, i tecnici e tutti gli operatori economici presenti a Gioia del Colle.*
@@ -25,16 +30,31 @@ Il mio impegno per Gioia del Colle
 
    *Ogni forza politica dovrà avere a cuore non l'interesse di parte ma le sorti della città, solo in tal modo si potranno raggiungere importanti obiettivi ed un effettivo rilancio della nostra amata Gioia del Colle.*
 
-   *Vorrei che i gioiesi tornassero ad essere orgogliosi della loro città.* 
+   *Vorrei che i gioiesi tornassero ad essere orgogliosi della loro città.*
    
 .. raw:: html
    :file: sign.html
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Indice:
+   :maxdepth: 1
+   :caption: Programma:
 
-   programma
+   comune_efficiente
+   trasparenza
+   tributi
+   urbanistica
+   commercio
+   cultura
+   scuola
+   sport
+   agricoltura
+   digitale
+   partecipazione
+   salute
+   ambiente
+   mobilita
+   sicurezza
+   turismo
   
 
 

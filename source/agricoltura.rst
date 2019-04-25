@@ -1,6 +1,6 @@
--------------
 Agricoltura
--------------
+===================================
+
 .. image:: ./_images/agricoltura.jpg
   :width: 100%
   :alt: Partecipazione
@@ -14,7 +14,7 @@ Le produzioni agroalimentari locali rappresentate da Consorzi e Associazioni di 
 
 Incentivare l’innovazione tecnologica applicata all’agro-zootecnia per potenziare la tracciabilità agroalimentare, semplificare la burocrazia, garantire la qualità e sicurezza dei prodotti lattiero-caseari nel rispetto della fertilità del suolo, riduzione delle emissioni di CO2 per valorizzare la filiera lattiero-casearia.
 
-
+----------
 AgroCittà
 ----------
 Gli allevatori e produttori dell’agro gioiese hanno diritto ad avere servizi efficienti e non devono più sentirsi trascurati e abbandonati. 

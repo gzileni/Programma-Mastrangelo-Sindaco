@@ -1,6 +1,6 @@
-------------
 Trasparenza
-------------
+===================================
+
 .. image:: ./_images/trasparenza2.jpg
   :width: 100%
   :alt: Partecipazione

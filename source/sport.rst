@@ -1,6 +1,6 @@
-------
 Sport
-------
+===================================
+
 .. image:: ./_images/sport.jpg
   :width: 100%
   :alt: Partecipazione

@@ -1,6 +1,6 @@
----------
 Turismo
----------
+===================================
+
 .. image:: ./_images/cultura.jpg
   :width: 100%
   :alt: Partecipazione

@@ -1,6 +1,6 @@
----------
 Ambiente
----------
+===================================
+
 .. image:: ./_images/ambiente.jpg
   :width: 100%
   :alt: Partecipazione

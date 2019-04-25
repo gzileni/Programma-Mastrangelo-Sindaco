@@ -1,5 +1,6 @@
+----------------------
 Mobilità sostenibile
-=====================
+----------------------
 
 .. image:: ./_images/mobilita.jpg
   :width: 100%
@@ -17,15 +18,14 @@ Le azioni fino ad oggi effettuate sul territorio di Gioia del Colle, nonostante 
 
 Ciò è confermato dal netto incremento del Tasso di Motorizzazione presente in città dal 2002, ottenuto dal rapporto tra vetture circolanti ogni 1000 abitanti.
 
--------------------------------
 Riduzione del Traffico
 -------------------------------
 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Potenziamento delle aree a sosta regolamentata
---------------------------------------------------
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Potenziamento delle aree a sosta regolamentata, con disco orario, al fine di migliorare la rotazione degli stalli di sosta nel centro abitato e, contestualmente, favorire gli spostamenti con mezzi alternativi all’auto privata.
 
----------------------------------
 Gioia del Colle nodo strategico
 ---------------------------------
 Gioia del Colle è in una posizione geografica strategica, crocevia di rete ferroviaria e stradale, in particolare per i tanti autobus che transitano nel tratto di Via Federico II di Svevia frequentato da tantissimi pendolari e studenti.
@@ -36,27 +36,28 @@ La fermata di Via Federico II di Svevia deve essere rigenerata affinché i viagg
 
 Stipulare accordi con tutte le agenzie di trasporto per creare nuove fermate extraurbane per le destinazioni nei paesi limitrofi e Bari, come ad esempio **Via dei Peuceti presso il Quartiere Rinascita, zona Colle delle Gioie**.
 
---------------------------------------------------
 Barriere Architettoniche
 --------------------------------------------------
 Migliorare gli accessi ai marciapiedi da parte dei diversamente abili, effettuando una mappatura degli interventi e poi procedendo con gli adeguamenti, qualora sia possibile garantire uno spostamento in sicurezza.
 
-----------------------------
 Una città amica della bici
 ----------------------------
 Dovrà esserci un impegno economico al fine di incentivare l'acquisto e l'utilizzo delle bici come mezzo quotidiano di locomozione.
 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Piano Urbano della Mobilità Sostenibile
---------------------------------------------------
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Predisposizione ed adozione del `PUMS (Piano Urbano della Mobilità Sostenibile)`_, strumento indispensabile per programmare la mobilità cittadina nei prossimi 10 anni e per ottenere finanziamenti europei sulla mobilità.
 
+'''''''''''''''''''''''''''''''''''''''
 Piste ciclabili
-----------------------
+'''''''''''''''''''''''''''''''''''''''
 Sarà doveroso valutare la possibilità di installare percorsi ciclabili in sede fissa riducendo gli spazi di sosta delle vetture private o con rimodulazione del traffico viario. 
 Tali percorsi dovranno tener conto della domanda da parte della cittadinanza, evitando gli errori del passato.
 
+'''''''''''''''''''''''''''''''''''''''
 Installazione di rastrelliere
----------------------------------
+'''''''''''''''''''''''''''''''''''''''
 Si potranno creare spazi di deposito pubblici per la bicicletta e mezzi di micromobilità in prossimità di stazioni e di fermate degli autobus a medio/lunga percorrenza, al fine di garantire l’intermodalità.
 
 Ad esempio il passaggio alla raccolta differenziata ha permesso di eliminare i cassonetti dei rifiuti lasciando alcuni spazi che potrebbero essere utili per il decoro urbano a favore della mobilità sostenibile.
@@ -83,14 +84,14 @@ Installare rastrelliere di ultima generazione in questi spazi vuoti per favorire
   :alt: Mobilita
   :align: center
 
---------------------
 Il prossimo futuro
 --------------------
 L’auto elettrica è una chiave importante per una strategia ambientale, l'ecotassa inserita nella legge di Bilancio non può essere una soluzione per decarbonizzare dei trasporti perchè rappresenta una misura spot. 
 L’Europa sta lavorando per creare le infrastrutture che rendano funzionale e sostenibile la mobilità su auto elettriche, così come le più grandi marche automobilistiche entro i prossimi due anni aumenteranno la produzione e la vendita di auto ibride e elettriche.
 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Realizzazione colonnine di ricarica per veicoli elettrici
-----------------------------------------------------------
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 .. image:: ./_images/electric_car.jpg
   :width: 100%
   :alt: Tasso di mobilità

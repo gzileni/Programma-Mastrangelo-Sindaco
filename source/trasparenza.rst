@@ -1,5 +1,6 @@
+------------
 Trasparenza
-============
+------------
 .. image:: ./_images/trasparenza2.jpg
   :width: 100%
   :alt: Partecipazione
@@ -11,7 +12,6 @@ L'obiettivo della coalizione sarà quello di rendere quanto più efficace la con
 La rendicontazione periodica sarà un nostro impegno per una comunicazione pubblica in grado di favorire sia una trasparenza dell’agire amministrativo, sia una partecipazione dei cittadini alla vita pubblica.
 Sostenere anche economicamente le attività inerenti servizi di e-government, formazione ed educazione alla trasparenza, al riuso e richieste di dati.
 
--------------------------------
 Codice Etico
 -------------------------------
 Il Comune adotterà il `Codice Etico degli Amministratori`_, con l’intento di assicurare e testimoniare la trasparenza, l’integrità e la legalità nelle attività dell’Ente, contrastando ogni possibile forma di corruzione e di infiltrazione criminosa.

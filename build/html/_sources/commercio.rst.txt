@@ -1,5 +1,6 @@
+---------------------------------
 Commercio e Attività produttive
-==================================
+---------------------------------
 
 .. image:: ./_images/commercio.jpg
   :width: 100%
@@ -17,7 +18,6 @@ Si può ipotizzare l'utilizzo di contenitori comuni, armonizzati nel contesto ur
 
 Sperimentare una giornata al mese per il mercato settimanale in altre zone della città, in particolar modo nelle zone periferiche, al fine di dare maggior frequentazione di avventori.
 
--------------------
 Riduzione fiscale
 -------------------
 A Gioia del Colle piccole attività commerciali subiscono un'elevatissima pressione fiscale a volte insostenibile e ingiustificata.
@@ -27,19 +27,20 @@ L'occupazione di suolo pubblico è una possibilità di guadagno che non deve ess
 
 Sostenendo tali opportunità le attività commerciali potrebbero senza dubbio un reale beneficio economico.
 
+'''''''''''''''''''''''''''''''''''''''
 Centro Storico e Zone Commerciali
-----------------------------------
+'''''''''''''''''''''''''''''''''''''''
 La valorizzazione del centro storico, sulla scorta delle più avvedute esperienze comunali limitrofe, significa soprattutto riqualificazione e incentivazione del sistema economico-produttivo-commerciale, significa anche una riqualificazione naturale degli immobili adibiti ad uso commerciale attraverso il ripristino delle facciate, l'adeguamento delle vetrine e dei varchi di accesso all'immobile.
 
 Il tutto, l'addove adeguatamente stimolato, ridarebbe sviluppo e bellezza. 
 
+'''''''''''''''''''''''''''''''''''''''
 Contro la desertificazione urbana
-----------------------------------
+'''''''''''''''''''''''''''''''''''''''
 Gli affitti elevati, le svendite incessanti, temporary store e outlet che minano la leale concorrenza, tasse vessatorie, sempre meno parcheggi nei centri storici, incidono sulla chiusura di attività commerciali causando la desertificazione in intere zone urbane, compromettendo anche la sicurezza dei cittadini.
 
 Bisogna sperimentare una **riduzione dell’aliquota IMU** per i proprietari di immobili non locati da *almeno 3 anni* che daranno in affitto gli spazi per l’apertura di nuove attività.
 
-----------------------
 Zona artigianale 
 ----------------------
 Il Piano Insediamento Produttivo (PIP) della Zona Artigianale di Gioia del Colle è scaduto da anni, bloccando di fatto il completamento degli insediamenti nell'area.

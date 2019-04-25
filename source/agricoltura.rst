@@ -1,5 +1,6 @@
+-------------
 Agricoltura
-============
+-------------
 .. image:: ./_images/agricoltura.jpg
   :width: 100%
   :alt: Partecipazione
@@ -13,7 +14,7 @@ Le produzioni agroalimentari locali rappresentate da Consorzi e Associazioni di 
 
 Incentivare l’innovazione tecnologica applicata all’agro-zootecnia per potenziare la tracciabilità agroalimentare, semplificare la burocrazia, garantire la qualità e sicurezza dei prodotti lattiero-caseari nel rispetto della fertilità del suolo, riduzione delle emissioni di CO2 per valorizzare la filiera lattiero-casearia.
 
-----------
+
 AgroCittà
 ----------
 Gli allevatori e produttori dell’agro gioiese hanno diritto ad avere servizi efficienti e non devono più sentirsi trascurati e abbandonati. 
@@ -23,7 +24,7 @@ Essere un Agrocittà significa che l’agro gioiese deve godere degli stessi di
 La riqualificazione delle aree agricole a sostegno dell’agricoltura locale sarà parte integrante dei percorsi partecipativi per redigere il nuovo Piano Urbanistico, in rete con i comuni limitrofi per co-progettare soluzioni per risolvere le criticità diffuse sulla viabilità e per il rispetto dell’ambiente, soprattutto per valorizzare il territorio a favore del turismo agricolo.
 
 Gestione rifiuti nell'agro gioiese
-------------------------------------
+'''''''''''''''''''''''''''''''''''''''
 Valutare l'ipotesi di una Eco Stazione, che permetteranno di risparmiare sui costi di raccolta e sulla tariffa TARI, aumentata oltre il 60% per le zone rurali.
 
 .. image:: ./_images/tivoli_rifiuti.jpeg
@@ -35,13 +36,12 @@ Valutare l'ipotesi di una Eco Stazione, che permetteranno di risparmiare sui cos
    :file: rifiuti_tivoli.html
 
 Infrastrutture e Viabilità
----------------------------
+'''''''''''''''''''''''''''''''''''''''
 Ripristinare servizi essenziali per la comunità montana partendo dalle necessita come ad esempio :
 
 - la sostituzione del macchinario di erogazione dell'acqua dal pozzo in località Montursi; 
 - potenziamento della rete Internet per le famiglie di allevatori residenti nell'agro gioiese.
 
--------------------------------
 Tavolo #MadeinGioiadelColle
 -------------------------------
 .. image:: ./_images/dop.jpg
@@ -52,7 +52,7 @@ Tavolo #MadeinGioiadelColle
 Tavolo di partecipazione e co-progettazione di proposte e strategie insieme alle Associazioni di categoria, **Pro Loco**, Consorzi di Produttori del Vino, della mozzarella DOP, Allevatori e Agricoltori per la valorizzazione, innovazione, promozione e tutela della nostra produzione agricola, la filiera lattiero-casearia, il nostro latte e i prodotti tipici locali enogastronomici e artigianali.
 
 `Campagna Amica`_ a KM0
-------------------------
+''''''''''''''''''''''''''
 .. image:: ./_images/mercato0.jpg
   :width: 100%
   :alt: Partecipazione
@@ -63,15 +63,15 @@ Istituire attività di promozione dei prodotti locali durante lo svolgimento del
 Concessione di aree pubbliche dell'attuale Mercato Coperto da destinare alle aziende agricole, per la promozione dei prodotti tradizionali locali a KM0.
 
 Siero del Latte, da rifiuto a risorsa economica
-------------------------------------------------
+''''''''''''''''''''''''''''''''''''''''''''''''''''
 L’obiettivo è promuovere la realizzazine di una filiera produttiva integrata cha vada dai produttori della materia prima insieme ad Associazioni di categoria e Consorzio dei Produttori della mozzarella DOP, fino alla trasformazione finale per le imprese dolciarie e farmaceutiche.
 
 Denominazione Comunale (DE.CO.)
-----------------------------------
+'''''''''''''''''''''''''''''''''''''''
 Applicazione e aggiornamento del `Regolamento ​DECO`_ (Approvato in Consiglio Comunale di Gioia del Colle con Delibera n.12 del 05/04/2017) per la valorizzazione delle produzioni locali affinché si costituisca una commissione insieme alla Pro Loco, di rappresentanti del settore produttivo locale, il turismo e commercio, con l'obiettivo di attivare percorsi volti alla valorizzazione e sfruttamento delle possibilità offerte da tutti i prodotti tipici enogastronomici e dell'artigianato locale.
 
 Tracciabilità e BlockChain
--------------------------------
+'''''''''''''''''''''''''''''''''''''''
 .. image:: ./_images/foodchain.jpg
   :width: 100%
   :alt: Tracciabilità Agroalimentare

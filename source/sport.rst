@@ -1,5 +1,6 @@
+------
 Sport
-=======
+------
 .. image:: ./_images/sport.jpg
   :width: 100%
   :alt: Partecipazione
@@ -38,23 +39,21 @@ Sarà necessario pianificare una attenta politica volta all'incremento della pra
   :alt: Partecipazione
   :align: center
 
-------------------------------------------------
 PalaKuznetzov
 ------------------------------------------------
 Il Palazzetto PalaKuznetzov ha una pavimentazione omologata solo per il Volley, sarà necessario, attivandosi con immediatezza per la ricerca di fondi necessari, cambiarla con una superficie multifunzionale, adatta anche per altre discipline sportive.
 **Impegno economico importante ma non più rimandabile.**
 
--------------------------------
 Partenariato Pubblico-Privato
 -------------------------------
 Attivare un percorso per arrivare a un partenariato pubblico-privato per la riqualificazione degli impianti sportivi.
 
+'''''''''''''''''''''''''''''''''''''''
 Modello ESCo
--------------------------------
+'''''''''''''''''''''''''''''''''''''''
 Valutare la sperimentazione del `modello di business ESCo`_ che permette di realizzare l’intervento [#2]_ assumendo tutti i rischi e costi dell'opera al privato e liberando il Comune da ogni onere organizzativo, finanziario e gestionale. 
 Condividere il risparmio con il privato che otterrà un beneficio economico per tutta la durata del contratto in misura proporzionale al risparmio conseguito.
 
------------------------------
 Organizzazione degli spazi 
 -----------------------------
 La distribuzione attuale delle ore d'utilizzo degli impianti sarà ridimensionata e calibrata considerando altri criteri più ristrettivi di quelli in vigore con l'attuale regolamento. 
@@ -66,15 +65,16 @@ I criteri di merito delle associazioni devono tener conto principalmente dei seg
 - il numero effettivo di atleti praticanti per ogni società sportiva;
 - esenzione del pagamento per ragazzi socialmente svantaggiati e progetti di integrazione sociale;
 
+'''''''''''''''''''''''''''''''''''''''
 Gestione degli impianti 
--------------------------
+'''''''''''''''''''''''''''''''''''''''
 Il contratto attuale per la pulizia e gestione degli impianti sportivi non è sufficiente a soddisfare le esigenze delle società sportive, dovrà essere revisionato considerando il numero di ore effettive di utilizzo degli impianti rispetto alla reale esigenza delle associazioni sportive
 
+'''''''''''''''''''''''''''''''''''''''
 Ufficio Sport
---------------
+'''''''''''''''''''''''''''''''''''''''
 L'ufficio Sport sarà riorganizzato in un nuovo organigramma di servizi comunali, affinchè possa gestire gli spazi con maggiore efficienza.
 
---------------------------
 Nuove strutture sportive
 --------------------------
 Avviare processi di collaborazione e dialogo con la Regione Puglie e CONI per reperire finanziamenti destinati alla rigenerazione e all'utilizzo multidisciplinare delle strutture esistenti.

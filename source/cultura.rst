@@ -1,7 +1,7 @@
+--------
 Cultura
-============
+--------
 
-----------------------------
 Importanza e valorizzazione
 ----------------------------
 La vera Conoscenza è quanto mai basilare all'interno delle moderne società e nei vari territori d'appartenenza; la storia e le tradizioni delle comunità in essa si riconoscono ed ad essa guardano al fine di migliorare le sensibilità di ognuno, il progresso e gli stili di vita.
@@ -26,7 +26,6 @@ Il tutto senza dimenticare i tra importanti Conventi di Gioia del Colle: **Sant'
 
 Direttrice principe dell'Assessorato alla Cultura del Comune di Gioia del Colle, sarà comunque quella di indicare con puntualità e precisione le linee guida ispiratrici volta per volta di percorsi ed iniziative, in modo tale da tracciare solchi all'interno dei quali operare e mirare in vista del comune obiettivo di rendere la Città di Gioia del Colle eccellenza nel campo delle Arti, delle Lettere e delle Scienze.
 
-------------------
 Teatro "ROSSINI"
 ------------------
 .. image:: ./_images/teatro_rossini.jpg
@@ -34,8 +33,9 @@ Teatro "ROSSINI"
   :alt: Teatro Rossini
   :align: center
 
+'''''''''''''''''''''''''''''''''''''''
 Organizzazione, Gestione e Direzione
---------------------------------------
+'''''''''''''''''''''''''''''''''''''''
 Il **Teatro Comunale "Rossini"** preziosa ed insostituibile risorsa per la cultura gioiese, avrà la capacità di divenire pregiato contenitore per eventi e rappresentazioni teatrali di livello nazionale ed internazionale.
 Grazie alla sua imponente costruzione storica che lo rende immobile di notevole rilevanza architettonica, il Teatro Comunale Rossini sarà destinato ad essere il centro pulsante di importanti iniziative, nonchè vera e propria fucina di produzione teatrale. .
 
@@ -47,7 +47,6 @@ Per la organizzazione del Teatro Comunale Rossini, sarà opportuno individuare 
 Il Teatro Comunale Rossini, per il tramite dell'Assessore alla Cultura e delle Direzioni Artistica e Tecnica, andrà a collaborare ed interagire con le Scuole presenti nel nostro territorio, all'uopo organizzando appositi corsi didattici al loro interno, ma anche con le Associazioni Culturali e di Servizio, con la Consulta per la Cultura, con le Scuole nonchè con singole personalità che - dotate di particolare propensione per l'Arte e la Cultura- andranno ad essere individuate come interlocutori necessari per future forme di collaborazione.
 Anche per il campo della musica sarà opportuno avvalersi di figure esperte nel suo campo le quali, in base a loro proprie precipue competenze, potranno coadiuvare con la Direzione del Teatro e con l'assessorato alla Cultura al fine di stilare una programmazione musicale adatta alla città ed ai suoi potenziali fruitori, all'uopo spaziando nei campo della musica sinfonica, operistica, leggera, da camera, popolare e jazz, e predisporre periodicamente proposte e cartelloni.
 
-------------------------------------------------
 Castello ed Area Archeologica di Monte Sannace 
 ------------------------------------------------
 .. image:: ./_images/castello.jpg
@@ -55,8 +54,9 @@ Castello ed Area Archeologica di Monte Sannace
   :alt: Castello Normanno-Svevo
   :align: center
 
+'''''''''''''''''''''''''''''''''''''''
 Utilizzo e Fruibilità
------------------------
+'''''''''''''''''''''''''''''''''''''''
 Al fine di una maggiore, piu' giusta ed opportuna fruibilità di tutti gli ambienti del Castello Normanno - Svevo di Gioia del Colle, nonchè dell'area relativa al sito Archeologico di Monte Sannace situato sulla S.P. Gioia - Turi, sarà necessario istituzionalizzare un formale accordo contrattuale tra Comune di Gioia del Colle (e per esso il Sindaco e l'Assessore alla Cultura pro - tempore) e la Direzione del Castello Normanno - Svevo; a tale accordo sarà opportuna la partecipazione di altri Enti necessari partner del protocollo: tra essi il Polo Museale, il Museo Archeologico Nazionale di Gioia del Colle, il MIBACT e la società Nova Apulia, la quale attualmente gestisce lo spazio di piano-terra destinato a bar, rivendita di libri e book shoop.
 
 Il rapporto obbligatorio a stipularsi andrà a disciplinare con attenzione tempi, condizioni,. modalità ed eventuali costi per l'utilizzo da parte della Pubblica Amministrazione, non solo del Castello e dei suoi ambienti, ma anche del sito archeologico, offrendo la possibilità al nostro Comune di ivi organizzare eventi e proposte di altro livello culturale ed artistico.
@@ -68,12 +68,12 @@ E' tradizione che, nelle due domeniche successive alla Pasqua, dopo la celebrazi
 
 Anche la festa del primo Maggio a Montursi in occasione della ricorrenza di San Giuseppe lavoratore sarà rivalutata ed adeguatamente esaltata di concerto con la locale Associazione e tutti gli abitanti della storica contrada dell'agro gioiese.
 
--------------------------
 Consulta per la Cultura 
 -------------------------
 
+'''''''''''''''''''''''''''''''''''''''
 Finalità ed Istituzione
--------------------------
+'''''''''''''''''''''''''''''''''''''''
 
 La Consulta Comunale della Cultura del Comune di Gioia del Colle, il cui regolamento è già in essere presso il Comune di Gioia del Colle, ma giammai reso operativo nella sua propria precipua organizzazione, deve perseguire al suo interno la promozione ed il coordinamento delle attività culturali locali in stretta collaborazione con Associazioni, Sodalizi e Scuole operanti nella nostra Comunità.
 La Consulta inoltre avrà il compito di fare emergere le esigenze e i bisogni della cittadinanza e dei singoli in riferimento alla cultura; di stimolare e favorire tutte quelle iniziative in grado di potenziare le attività della cultura e dello spettacolo; di coordinare l’associazionismo culturale presente sul territorio esaminandone le problematiche e ricercando le più appropriate soluzioni alle stesse; di promuovere l’attività delle associazioni elaborando strategie comuni per la valorizzazione del patrimonio culturale, delle iniziative letterarie, scientifiche, teatrali e musicali programmate nel territorio comunale; calendarizzare gli eventi da svolgersi presso i contenitori culturali; pubblicizzare gli eventi culturali patrocinati dal Comune anche attraverso l'utilizzo di un apposito spazio all’interno del rinnovato sito istituzionale del Comune, promuovere attività di collaborazione tra le varie associazioni.
@@ -81,12 +81,12 @@ La Consulta inoltre avrà il compito di fare emergere le esigenze e i bisogni d
 La Consulta per Cultura avrà l'obbligo di operare in stretta sinergia e collaborazione con l'Assessorato alla Cultura, il cui esponente ne farà parte di diritto, ed avrà la facoltà di partecipare a tutte le riunioni e comunque essere informato in merito alle decisioni ed iniziative intraprese.
 Alla Consulta Comunale della Cultura, nel cui coordinamento deve essere coinvolta la locale "Pro Loco", quale Associazione Turistica espressamente riconosciuta dall'Ente Comunale, e per la cui attività di promozione turistica si auspica maggiore operatività, potranno divenire parti tutte le Associazioni Culturale e di Servizio presenti sul territorio che ne avranno palesato espressa adesione a seguito di formale invito da parte dell'Ufficio Cultura, avrà la stessa durata di quello amministrativo del Consiglio Comunale che l’ha istituita.
 
--------------------------
 I Contenitori culturali 
 -------------------------
 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Palazzo Serino, Palazzo Tateo, Palazzo S.Antonio, ex Distillerie
-------------------------------------------------------------------
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 .. image:: ./_images/cassano.jpg
   :width: 100%
   :alt: ex Distilleria
@@ -101,12 +101,12 @@ Ulteriore attività sarà quella tesa ad un utilizzo sociale dei grandi ambien
 
 Auspicabile sarà il mantenimento e l'ammodernamento dell'attuale **Info Point** il quale assicurerà la presenza di personale comunale durante le ore lavorative,ma soprattutto nel corso dei mesi estivi in cui il flusso turistico è maggiore; il tutto con personale a reperirsi tra le varie Associazioni di Gioia del Colle che ne faranno apposita richiesta, e che potrebbero gestire il punto informativo fornendo informazioni su: turismo, luoghi d'interesse storico,culturale ed architettonico, bar, ristoranti, pizzerie, masserie, chiese, luoghi, monumenti, eventi e/o iniziative culturali, luoghi d'aggregazione e palazzi padronali.
 
-----------------------------------------
 Pittori locali, Musica, Arti figurative
 ----------------------------------------
 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Occasioni, Sistema, Promozione artistica
------------------------------------------
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 La Città di Gioia del Colle ha la fortuna di annoverare al proprio interno una moltitudine di personalità particolarmente versatili nel campo delle lettere, della musica e delle arti figurative. Considerata tale ricchezza di intelligenze, sarà quantomai opportuno un coinvolgimento corale di tutti con l'obiettivo di rendere Gioia vera e propria "città della bellezza".
 
 Perseguire l'abbellimento del centro storico attraverso la promozione di attività ed iniziative benemerite come "Le Porte dell'imperatore" ed in generale della parte piu' antica e suggestiva di Gioia, nonchè la creazione di un circuito artistico, magari in sinergia con altri Comuni limitrofi, destinato alla realizzazione ed organizzazione di appuntamenti e mostre periodiche. 

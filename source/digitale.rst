@@ -1,5 +1,6 @@
+----------------------
 Cittadinanza digitale
-======================
+----------------------
 
 .. image:: ./_images/digitale.jpg
   :width: 100%
@@ -17,7 +18,6 @@ I dati pubblici devono essere di particolare interesse pubblico e ad alto impatt
 
 La digitalizzazione completa del Comune di Gioia del Colle è una missione fondamentale da portare a termine, `altrimenti faremo un danno al territorio e all’erario`_.
 
-----------------------------------------------------
 Strategia Digitale per il Comune di Gioia del Colle
 ----------------------------------------------------
 Occorrerà innanzitutto potenziare le competenze dei dipendenti pubblici, che dovranno essere in grado di affrontare la costante evoluzione della comunicazione con i cittadini.
@@ -28,18 +28,19 @@ La Strategia per una digitalizzazione totale del Comune avrà 3 (tre) punti fond
 2. L’innovazione dei sistemi informatici e software;
 3. Creazione di leadership all’interno del Comune per guidare i processi di innovazione digitale.
 
+'''''''''''''''''''''''''''''''''''''''
 Il punto di partenza
----------------------
+'''''''''''''''''''''''''''''''''''''''
 Si dovrà partire sfruttando le opportunità esistenti grazie alle principali piattaforme nazionali per la cittadinanza digitale (SPID, PagoPA, ANPR), armonizzando tutti i servizi digitali già operativi, a cominciare dallo Sportello Anagrafe centrale per lo sviluppo digitale del Comune di Gioia del Colle, fino ai Tributi, Servizi Sociali, Sue/Suap per le attività commerciali, SIT per conoscere il territorio, le sue risorse ed il suo utilizzo, ed infine il Servizi Rifiuti accessibili tramite il portale `eGov`_.
 
-^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 SPID
-^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 Il portale **eGov** è accessibile tramite `SPID` (Sistema Pubblico per la gestione dell’identità digitale), utilizzabile da computer, tablet e smartphone.
 
-^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 PagoPA
-^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 `PagoPA`_ è il sistema di pagamenti elettronici verso la Pubblica Amministrazione con il quale si possono pagare le tasse, prestazioni sanitarie, iscrizioni scolastiche e molto altro in maniera sicura e veloce.
 
 Tale servizio deve essere diffuso ai cittadini ed alle imprese per ridurre i tempi e, al contempo, l'impiego del personale.
@@ -51,16 +52,16 @@ Cosa faremo
 ------------
 Nel lungo cammino ci saranno interventi da attuare per completare il percorso di digitalizzazione entro tempi certi.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Nuovo Design dei Servizi Pubblici e Social Network
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Negli ultimi anni l’accelerazione imposta dal digitale con i social network, chat, siti web user-friendly hanno ridefinito la comunicazione pubblica. 
 E’ necessario rilanciare Il rapporto tra cittadini e Comune attraverso un’attività comunicativa e un nuovo design dei servizi pubblici.
 Il sito istituzionale e i suoi servizi pubblici collegati avranno un nuovo approccio comunicativo più reattivo in linea con i social network a disposizione dei cittadini in qualunque momento e su qualunque piattaforma, senza trasformare i suoi account social in estensioni dell’URP.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 ANPR e interoperabilità dei dati
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 Il Comune di Gioia del Colle è subentrato a `ANPR (Anagrafe Nazionale della Popolazione Residente)`_ il `5 Novembre 2018`_ collegando i servizi dell’`Anagrafe alla banca dati nazionale`_.
 
 Con l’**ANPR** sarà possibile accedere ai propri dati e certificati anagrafici in qualsiasi momento evitando il tempo impiegato per le richieste e le conseguenti risposte degli operatori comunali. Il cittadino potrà richiedere certificati anagrafici in qualsiasi Comune, non solo in quello di residenza, oppure collegandosi alla rete in qualsiasi momento, con risparmio di tempo e risorse sulla gestione del personale comunale.
@@ -68,27 +69,25 @@ Con l’**ANPR** sarà possibile accedere ai propri dati e certificati anagrafic
 Una banda dati ANPR disponibile per tutte le aree dei servizi comunali diventando la prima innovazione concreta verso **una vera l’interoperabilità delle banche dati comunali**.
 Tale servizio deve essere rapidamente diffuso ed utilizzato.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 CLOUD
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 Migrazione di tutti i servizi informatici verso architetture informatiche `CLOUD`_ come da `Piano Triennale per l’Informatica`_.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 SPID per Professionisti
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 Il sito istituzionale con i servizi pubblici del Comune di Gioia del Colle saranno accessibili online tramite SPID, insieme allo SPID per professionisti che consentirà di associare ruoli professionali e iscrizione in albi.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 Open Source
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''
 Impegno del Comune ad adottare il più possibile soluzioni a codice sorgente aperto (open source) per favorire l’indipendenza dai fornitori, la sicurezza e l’accessibilità al patrimonio informativo pubblico
 
---------------------
 Crowdfunding Civico
 --------------------
 Aggiornare lo Statuto Comunale affinchè possa contemplare strumenti di partecipazione innovativi come il `Crowdfunding Civico`_.
 
--------------
 BlockChain
 -------------
 .. image:: ./_images/blockchain.jpg

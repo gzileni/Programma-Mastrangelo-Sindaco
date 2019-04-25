@@ -1,5 +1,6 @@
+--------
 Tributi
-=====================
+--------
 .. image:: ./_images/economia.jpg
   :width: 100%
   :alt: Partecipazione
@@ -24,7 +25,6 @@ La comunicazione costante e continua tra l'Ufficio Tributi, Ufficio Tecnico e Se
 
 Obiettivo a medio/lungo termine sarà quello di potenziare l'Ufficio Tributi al fine di raggiungere una piena autonomia nella gestione della riscossione dei tributi. 
 
--------------
 Riferimenti
 -------------
 

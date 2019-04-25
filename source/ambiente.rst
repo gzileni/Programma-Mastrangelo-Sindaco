@@ -1,5 +1,6 @@
+---------
 Ambiente
-=========
+---------
 .. image:: ./_images/ambiente.jpg
   :width: 100%
   :alt: Partecipazione
@@ -14,7 +15,6 @@ Il problema del traffico veicolare è una delle principali fonti di malattie cro
 
 Sarà compito dell'Amministrazione attivare ogni forma di prevenzione e controllo al fine di reperire il più elevato standard qualitativo ambientale.
 
--------------
 Air Quality
 -------------
 .. image:: ./_images/itea.jpg
@@ -26,15 +26,16 @@ Air Quality
 
 Promuovere progetti di di monitoraggio ambientale degli inquinanti atmosferici della zona Industriale in collaborazione con `ARPA`_, ISPRA e Università per fornire alla città dati puntuali sull’inquinamento provenienti da centraline di monitoraggio installate nella zona industriale tramite `servizi web di report dei dati`_ accessibili in formato **open data**.
 
+'''''''''''''''''''''''''''''''''''''''
 Formazione
------------
+'''''''''''''''''''''''''''''''''''''''
 Attività di sensibilizzazione ambientale insieme all’ARPA, e progetti di formazione in collaborazione con Associazioni insieme alle scuole per la rilevazione dei dati ambientali.
 
+'''''''''''''''''''''''''''''''''''''''
 Lotta alle discariche abusive
--------------------------------
+'''''''''''''''''''''''''''''''''''''''
 Incremento dei controlli nelle campagne gioiesi del fenomeno delle discariche abusive con l’installazione di fototrappole.
 
--------------------------------------
 Gioia del Colle città "Pet Friendly"
 -------------------------------------
 .. image:: ./_images/pet_friendly.jpg
@@ -50,19 +51,19 @@ Tali aree verdi saranno controllate constantemente affinchè ogni proprietario c
 
 La esistente area DOG sarà bonificata e ripulita. I proprietari che non rispettano l'obbligo di raccolta delle deiezioni canili, al contempo saranno sanzionati come per legge.
 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 "Parco degli affetti" il `primo cimitero per Animali`_
--------------------------------------------------------
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Individuazione di un terreno pubblico da affidare in gestione ad un’associazione tramite bando pubblico per dare degna sepoltura ai propri animali domestici.
 
 Canile Municipale
-------------------
+'''''''''''''''''''''''''''''''''''''''
 Bisognerà completare la messa a norma del canile sanitario e ampliare le infrastrutture esistenti per fornire un servizio di adozione efficiente per la città.
 
 Bonus "Cane"
--------------
+'''''''''''''''''''''''''''''''''''''''
 Con il "bonus cane" un gesto d’amore può trasformarsi anche in un buon investimento; si potrà prevedere un incentivo fiscale per chi deciderà di adottare un cane dal canile municipale.
 
-------------------------
 Un albero per ogni nato
 ------------------------
 Implementare il verde urbano piantando un albero per ogni nuovo nato e per ogni bambino adottato, applicando l’`obbligo previsto per legge`_.

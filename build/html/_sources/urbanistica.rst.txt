@@ -29,9 +29,11 @@ Utilizzo ed impiego dei manufatti presenti nel centro storico rimaranno a destin
 
 ----------------------------
 Patrimonio edilizio rurale
------------------------------
+----------------------------
 Con riferimento alle **linee guida 4.4.6 del PPTR** (`Linee guida per il recupero e riuso`_ dell'edilizia dei beni rurali), si intendono per patriomonio edilizio rurale i manufatti aventi qualunque destinazione, edificati prima della riforma agraria e fondiaria in Puglia, **e in ogni caso realizzati prima del 1967**.
+
 Tali immobili saranno considerati a destinazione libera e pertanto il loro riuso anche da parte di soggetti non imprenditori agricoli a titolo principale, non sarà soggetto ad oneri connessi con il cambio di destinazione d'uso proposto nel progetto di recupero, di ristrutturazione e di riuso.
+
 A tal propostito si precisa che, entro il rispetto del `PPTR`_ e delle norme del presente regolamento in fabbriocati in  zona rurale, per essi non si configurerà un cambio di destinazione d'uso, ma solo una variazione d'uso dell'unità immobiliare, da regolarizzare mediante denuncia all'Agenzia del Territorio. 
 
 -----------------------------

@@ -63,11 +63,6 @@ Al termine dei lavori suddetti saranno eseguiti controlli rigorosi sugli interve
   :alt: Urbanistica
   :align: center
 
-.. image:: ./_images/buca_2.jpg
-  :width: 100%
-  :alt: Urbanistica
-  :align: center
-
 '''''''''''''''''''''''''''''''''''''''
 Sicurezza
 '''''''''''''''''''''''''''''''''''''''

@@ -67,11 +67,6 @@ Installare rastrelliere di ultima generazione in questi spazi vuoti per favorire
   :alt: Mobilita
   :align: center
 
-.. image:: ./_images/rastr_3.jpg
-  :width: 100%
-  :alt: Mobilita
-  :align: center
-
 .. image:: ./_images/rastr_4.jpg
   :width: 100%
   :alt: Mobilita

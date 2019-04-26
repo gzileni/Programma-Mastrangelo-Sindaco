@@ -1,11 +1,5 @@
 Ambiente
 ===================================
-
-.. image:: ./_images/ambiente.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **Le aree verdi urbane sono una risorsa fondamentale per la sostenibilità e la qualità della vita in città, contribuendo a mitigare l’inquinamento e migliorare il benessere del cittadino.**
 
 La principale sfida da affrontare in futuro per il territorio gioiese è trovare un equilibrio tra densità urbanistica e qualità della vita.

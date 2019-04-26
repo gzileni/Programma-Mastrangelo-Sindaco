@@ -1,12 +1,6 @@
 
 Commercio e Attività produttive
 ===================================
-
-.. image:: ./_images/commercio.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **Il Comune deve incentivare la capacità di consumo dei cittadini nel proprio territorio per limitare la crisi economica delle attività commerciali locali insieme dalle politiche economiche aggressive delle grandi distribuzioni.**
 
 Compito dell'Amministrazione deve essere quello di incentivare il commercio per aumentare le opportunità di sviluppo del settore attraverso un piano di defiscalizzazione per incentivare nuove aperture commerciali e individuazione di aree urbane strategiche da riqualificare.

@@ -1,11 +1,5 @@
 Trasparenza
 ===================================
-
-.. image:: ./_images/trasparenza2.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **La trasparenza senza nessuna restrizione giuridica non sarà più un mero adempimento burocratico, ma diventerà la regola generale e valore fondamentale.**
 
 L'obiettivo della coalizione sarà quello di rendere quanto più efficace la conoscenza e la lettura semplice dei dati e documenti pubblici da parte dei cittadini offrendo siti istituzionali leggibili e percorsi semplificati per l’accesso alle informazioni (`FOIAPop`_).

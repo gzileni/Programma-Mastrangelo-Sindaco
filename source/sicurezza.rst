@@ -1,11 +1,5 @@
 Sicurezza
 =============
-
-.. image:: ./_images/sicurezza.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **La qualità della vita e la sicurezza urbana rappresentano un diritto dei cittadini.**
 
 La sicurezza deve essere garantita con l’azione coordinata di più livelli di governo e dal bilancio comunale. 

@@ -1,11 +1,5 @@
 Mobilità sostenibile
 ===================================
-
-.. image:: ./_images/mobilita.jpg
-  :width: 100%
-  :alt: Mobilita
-  :align: center
-
 **Il benessere del cittadino dipende in buona parte dal livello di mobilità sostenibile.**
 
 Se esistono percorsi pedonali, piste ciclabili insieme ad un efficiente trasporto pubblico il cittadino abbandonerà i mezzi privati, queste tre variabili insieme contribuiscono ad avere mobilità sostenibile.

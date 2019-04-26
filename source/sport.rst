@@ -1,11 +1,5 @@
 Sport
 ===================================
-
-.. image:: ./_images/sport.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **Lo sport è momento di educazione, socializzazione e cura.**
 Lo sport è uno strumento per lo sviluppo completo e armonico della personalità dei nostri giovani, quindi del nostro futuro; le associazioni e società sportive hanno un ruolo fondamentale in questo percorso di crescita, saranno il nostro punto di riferimento per tutte le nostre politiche di diffusione della pratica sportiva.
 

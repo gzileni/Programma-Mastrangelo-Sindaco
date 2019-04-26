@@ -1,11 +1,5 @@
 Efficienza e riorganizzazione della macchina amministrativa 
 ======================================================================
-
-.. image:: ./_images/comune.jpg
-  :width: 100%
-  :alt: Comune Efficiente
-  :align: center
-
 Servizi pubblici più efficienti significa migliorare la vita delle persone e i suoi fabbisogni, è la prima e la più importante missione da non perdere mai di vista.
 
 Un Comune come Gioia del Colle non può continuare ad operare in carenza di organico così come avvenuto fino ad oggi.
@@ -48,4 +42,3 @@ Tale ufficio avrà il compito ulteriore di seguire tutte le fasi di partecipazio
 Potenziamento SUAP 
 ------------------------------
 Potenziamento degli Sportelli Unici per le Attività Produttive (SUAP) al fine di consentire una riduzione dei tempi burocratici garantendo una rapida risposta alle esigenze di imprese e attività commerciali.
-

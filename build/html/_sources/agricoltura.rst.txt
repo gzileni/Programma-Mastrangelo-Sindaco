@@ -1,11 +1,5 @@
 Agricoltura
 ===================================
-
-.. image:: ./_images/agricoltura.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **Il Comune deve essere di sostegno alla promozione del proprio territorio in tutte le sue espressioni dalle più tradizionali a quelle più avanzate e innovative.**
 
 La tipicità dei prodotti locali insieme alla loro qualità, sicurezza alimentare e sostenibilità ambientale sono le variabili su cui fondare una politica di marketing territoriale che comprenda anche la valorizzazione delle tradizioni e prodotti tipici locali.

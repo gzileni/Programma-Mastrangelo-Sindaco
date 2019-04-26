@@ -1,11 +1,5 @@
 Urbanistica
 ===================================
-
-.. image:: ./_images/urbanistica.jpg
-  :width: 100%
-  :alt: Urbanistica
-  :align: center
-
 L'attività urbanistica deve essere improntata alla riduzione del consumo del suolo e contemporaneamenete correlata all'implementazione dei servizi da offrire ai cittadini.
 Gli interventi in materia urbanistica devono sempre garantire il miglioramento della qualità urbana.
 

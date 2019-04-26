@@ -1,11 +1,5 @@
 Salute e Servizi per la Persona
 ===================================
-
-.. image:: ./_images/salute.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **Il Comune di Gioia del Colle subisce da anni la morte lenta della sanità pubblica, sempre più aggredita da tagli per effetto dei quali non viene più garantito l’accesso alle cure e le liste d’attesa si allungano.**
 Dovrà essere un compito di assoluto rilievo quello di garantire, in primis, il rispetto dei servizi territoriali di assistenza.
 

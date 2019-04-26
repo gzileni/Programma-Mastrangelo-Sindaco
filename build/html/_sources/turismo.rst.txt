@@ -1,11 +1,5 @@
 Turismo
 ===================================
-
-.. image:: ./_images/cultura.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **Per ottenere sviluppo dal Turismo e Cultura è necessaria ricerca, innovazione e soprattutto infrastrutture, con una giusta strategia di marketing territoriale.**
 
 La cultura e il turismo generano sviluppo solo con operatori dal profilo idoneo con una formazione in grado di aumentare il potere di attrazione del territorio con prodotti turistici mirati e una strategia comune.

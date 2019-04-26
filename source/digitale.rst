@@ -1,11 +1,5 @@
 Cittadinanza digitale
 ===================================
-
-.. image:: ./_images/digitale.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
 **Le città diventano smart quando sono in grado di ascoltare i cittadini e attivare la collaborazione e partecipazione per produrre servizi utili ai fabbisogni della comunità.**
 
 La diffusione di una cultura digitale e i dati pubblici sono elementi essenziali e materia prima dell’economia digitale, garantiscono il successo dell’innovazione digitale nel territorio.

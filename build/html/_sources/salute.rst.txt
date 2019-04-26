@@ -36,12 +36,7 @@ Bisogna verificare con particolare attenzione il rispetto e l'attuazione del pia
 Avviare tavoli tematici di partecipazione con ASL e associazioni sociali e no-profit su temi come la disabilità e non autosufficienze, il contrasto alla violenza di ogni genere, alla povertà, percorsi di inclusione socio-lavorativa e la prevenzione e contrasto alle dipendenze patologiche.
 E' intenzione di promuovere iniziative dirette a sostenere le pari opportunità e progetti di integrazione sociale delle persone diversamente abili.
 
-.. image:: ./_images/anziani_1.jpg
-  :width: 100%
-  :alt: Partecipazione
-  :align: center
-
-Recuperare qualsivoglia forma di finanziamento diretto ad organizzare Soggiorni per anziani in situazioni di disagio economico.
+**Recuperare qualsivoglia forma di finanziamento diretto ad organizzare Soggiorni per anziani in situazioni di disagio economico.**
 
 Minori
 -------

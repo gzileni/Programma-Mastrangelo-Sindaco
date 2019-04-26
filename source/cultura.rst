@@ -115,4 +115,3 @@ Il coinvolgimento degli artisti locali sarà utile anche al fine di una piu' ad
 
 Anche la locale nascente pinacoteca comunale ad ubicarsi presso l' immobile attualmente occupato dall'INPS, potrà accogliere non solo grandi mostre, ma anche personali di pittori e scultori locali, fungendo anche da laboratori aperti al pubblico per eventuali corsi o sperimentazioni artistiche.
 L'Amministrazione, infine, non farà mancare il proprio supporto e patrocinio in favore del glorioso Concerto Bandistico della Città di Gioia del Colle, che tanta fama ha diffuso nel mondo per le sue celeberrime esecuzioni musicali, nonchè per la diffusione della cultura letteraria, anche attraverso la organizzazione in proprio di rassegne letterarie in sinergia con scrittori, scuole e Case Editrici.
-

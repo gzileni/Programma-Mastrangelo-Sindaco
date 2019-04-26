@@ -61,7 +61,7 @@ L’obiettivo è promuovere la realizzazine di una filiera produttiva integrata 
 
 Denominazione Comunale (DE.CO.)
 '''''''''''''''''''''''''''''''''''''''
-Applicazione e aggiornamento del `Regolamento ​DECO`_ (Approvato in Consiglio Comunale di Gioia del Colle con Delibera n.12 del 05/04/2017) per la valorizzazione delle produzioni locali affinché si costituisca una commissione insieme alla Pro Loco, di rappresentanti del settore produttivo locale, il turismo e commercio, con l'obiettivo di attivare percorsi volti alla valorizzazione e sfruttamento delle possibilità offerte da tutti i prodotti tipici enogastronomici e dell'artigianato locale.
+Applicazione e aggiornamento del `Regolamento DECO`_ (Approvato in Consiglio Comunale di Gioia del Colle con Delibera n.12 del 05/04/2017) per la valorizzazione delle produzioni locali affinché si costituisca una commissione insieme alla Pro Loco, di rappresentanti del settore produttivo locale, il turismo e commercio, con l'obiettivo di attivare percorsi volti alla valorizzazione e sfruttamento delle possibilità offerte da tutti i prodotti tipici enogastronomici e dell'artigianato locale.
 
 Tracciabilità e BlockChain
 '''''''''''''''''''''''''''''''''''''''
@@ -76,7 +76,7 @@ Il Comune di Gioia del Colle come Nodo Capofila della **Rete Antenna PON in Rice
 Il consumatore finale sarò in grado di conoscere il lavoro e l’impegno di ogni allevatore, rendendosi conto di cosa succede, dietro ogni litro di latte una mozzarella o una forma di formaggio. 
 Nonostante il recente obbligo di indicazione dell’origine sull’etichetta del latte, il Mercato agroalimentare odierno ha ancora molte difficoltà nel certificare l'origine e la qualità di un prodotto agricolo, che non aiuterà ad aumentare la fiducia dei consumatori e proteggere il made in Italy.
 
-Il Comune insieme agli stakeholders ed enti di ricerca co-progetterà soluzioni per garantire una **tracciabilità sicura utilizzando nuove tecnologie come la ​BlockChain**,​ per permettere al consumatore di accedere a tutte le notizie riguardanti un singolo prodotto grazie ad Internet.
+Il Comune insieme agli stakeholders ed enti di ricerca co-progetterà soluzioni per garantire una **tracciabilità sicura utilizzando nuove tecnologie come la BlockChain**, per permettere al consumatore di accedere a tutte le notizie riguardanti un singolo prodotto grazie ad Internet.
 
 Con la legge di Bilancio per il 2019 emerge chiaramente che l'innovazione del Paese deve avere un impronta digitale. 
 Infatti l’adesione dell’Italia alla `Blockchain Partnership`_ , l’istituzione presso il Mise del `tavolo di esperti per definire una strategia nazionale sulla blockchain`_, fino alle nuove norme introdotte dal decreto-legge semplificazione [#1]_ e presentazione del `Fondo Nazionale Innovazione`_, indicano una strada spianata verso politiche di innovazione e potenziamento della filiera agroalimentare, favorendo la diffusione di **Agricoltura 4.0**.
@@ -85,12 +85,11 @@ L’Italia è leader assoluto nel campo delle eccellenze agroalimentari, sono un
 
 Il settore agricolo è in evoluzione e la **tecnologia blockchain** rafforzerà la tracciabilità proteggendo il futuro marchio DOP della mozzarella da frodi alimentari, ed invasioni di prodotto estero di scarsa qualità.
 
-
-.. [#1] Le norme sulle tecnologie basate su registri distribuiti e smart contracts sono contenute nella Legge 11 febbraio 2019, n. 12 di conversione in legge del decreto-legge 14 dicembre 2018, n. 135, recante “Disposizioni urgenti in materia di sostegno e semplificazione per le imprese e per la pubblica amministrazione”
+.. [#1] Le norme sulle tecnologie basate su registri distribuiti e smart contracts sono contenute nella Legge 11 febbraio 2019, n. 12 di conversione in legge del decreto-legge 14 dicembre 2018, n. 135, recante "Disposizioni urgenti in materia di sostegno e semplificazione per le imprese e per la pubblica amministrazione"
 
 .. _Campagna Amica: https://www.campagnamica.it
 .. _Blockchain Partnership: https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-Partnership
 .. _tavolo di esperti per definire una strategia nazionale sulla blockchain: https://www.mise.gov.it/index.php/it/blockchain
 .. _Fondo Nazionale Innovazione: https://www.mise.gov.it/index.php/it/198-notizie-stampa/2039329-di-maio-presenta-il-fondo-nazionale-innovazione
 .. _Report Attività 2018: https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/394
-.. _Regolamento ​DECO: https://deco.readthedocs.io/en/latest/
+.. _Regolamento DECO: https://deco.readthedocs.io/en/latest/

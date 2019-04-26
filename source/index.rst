@@ -32,9 +32,6 @@ Il mio impegno per Gioia del Colle
 
    *Vorrei che i gioiesi tornassero ad essere orgogliosi della loro città.* 
 
-.. raw:: latex 
-   \rightline{Giovanni Mastrangelo}
-   
 .. raw:: html
    :file: sign.html
 
@@ -58,7 +55,3 @@ Il mio impegno per Gioia del Colle
    mobilita
    sicurezza
    turismo
-  
-
-
-   

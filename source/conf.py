@@ -212,19 +212,34 @@ htmlhelp_basename = settings_basename + 'doc'
 #    ''',
 #}
 
+latex_elements = {
+# The paper size ('letterpaper' or 'a4paper').
+    'papersize': 'letterpaper',
+
+# The font size ('10pt', '11pt' or '12pt').
+    'pointsize': '11pt',
+
+# Additional stuff for the LaTeX preamble.
+    'preamble': r'''
+        \usepackage{charter}
+        \usepackage[defaultsans]{lato}
+        \usepackage{inconsolata}
+    ''',
+}
+
 # f = open('latex-styling.tex', 'r+');
 # PREAMBLE = f.read();
 
-latex_elements = {
+#latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
- 'papersize': 'a4paper',
+# 'papersize': 'a4paper',
 
 # The font size ('10pt', '11pt' or '12pt').
- 'pointsize': '14pt',
+# 'pointsize': '14pt',
 
 # Additional stuff for the LaTeX preamble. 
 # 'preamble': PREAMBLE,
-}
+#}
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,

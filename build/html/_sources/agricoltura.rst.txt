@@ -8,7 +8,6 @@ Le produzioni agroalimentari locali rappresentate da Consorzi e Associazioni di 
 
 Incentivare l’innovazione tecnologica applicata all’agro-zootecnia per potenziare la tracciabilità agroalimentare, semplificare la burocrazia, garantire la qualità e sicurezza dei prodotti lattiero-caseari nel rispetto della fertilità del suolo, riduzione delle emissioni di CO2 per valorizzare la filiera lattiero-casearia.
 
-----------
 AgroCittà
 ----------
 Gli allevatori e produttori dell’agro gioiese hanno diritto ad avere servizi efficienti e non devono più sentirsi trascurati e abbandonati. 
@@ -36,7 +35,6 @@ Ripristinare servizi essenziali per la comunità montana partendo dalle necessi
 - la sostituzione del macchinario di erogazione dell'acqua dal pozzo in località Montursi; 
 - potenziamento della rete Internet per le famiglie di allevatori residenti nell'agro gioiese.
 
--------------------------------
 Tavolo #MadeinGioiadelColle
 -------------------------------
 .. image:: ./_images/dop.jpg

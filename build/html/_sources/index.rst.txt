@@ -35,6 +35,10 @@ Il mio impegno per Gioia del Colle
 .. raw:: html
    :file: sign.html
 
+.. raw:: latex
+
+   \nopagebreak[1]
+
 .. toctree::
    :maxdepth: 1
    :caption: Programma:
@@ -55,3 +59,7 @@ Il mio impegno per Gioia del Colle
    mobilita
    sicurezza
    turismo
+
+.. raw:: latex
+
+   \nopagebreak[2]

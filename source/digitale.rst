@@ -31,6 +31,9 @@ SPID
 '''''''''''''''''''''''''''''''''''''''
 Il portale **eGov** è accessibile tramite `SPID` (Sistema Pubblico per la gestione dell’identità digitale), utilizzabile da computer, tablet e smartphone.
 
+.. raw:: html
+   :file: spid.html
+
 '''''''''''''''''''''''''''''''''''''''
 PagoPA
 '''''''''''''''''''''''''''''''''''''''

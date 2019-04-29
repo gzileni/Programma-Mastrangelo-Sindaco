@@ -37,13 +37,14 @@ Gioia del Colle città "Pet Friendly"
   :alt: Partecipazione
   :align: center
 
-Il Comune di Gioia del Colle deve diventare pet friendly, spazi verdi vivibili per gli animali e per chi li ama, nel rispetto delle condivisione del senso civico che devono adottare i proprietari degli amici a 4 zampe.
+Il Comune di Gioia del Colle deve diventare **Pet Friendly**, spazi verdi vivibili per gli animali e per chi li ama, nel rispetto delle condivisione del senso civico che devono adottare i proprietari degli amici a 4 zampe.
 
 Sarà necessario progettare nuovi spazi verdi attrezzati cercando di riqualificare zone altrimenti abbandonate al degrado. In questi spazi gli animali domestici, i cani in particolare, potranno giocare e socializzare tra loro. 
 
 Tali aree verdi saranno controllate constantemente affinchè ogni proprietario comportamenti improntati al rispetto igienico sanitario.
 
-La esistente area DOG sarà bonificata e ripulita. I proprietari che non rispettano l'obbligo di raccolta delle deiezioni canili, al contempo saranno sanzionati come per legge.
+La esistente area DOG sarà bonificata e ripulita. 
+I proprietari che non rispettano l'obbligo di raccolta delle deiezioni canili, al contempo saranno sanzionati come per legge.
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 "Parco degli affetti" il `primo cimitero per Animali`_

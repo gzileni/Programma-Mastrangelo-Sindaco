@@ -25,7 +25,7 @@ Sarà necessario pianificare una attenta politica volta all'incremento della pra
 7. Garantire l'adeguata rappresentanza ed il confronto continuo alle società sportive al fine di rendere partecipi dei procedimenti decisionali gli operatori;
 8. Attivare collaborazioni con il mondo imprenditoriale per lo sviluppo degli impianti sportivi, il loro utilizzo in ambito pubblicitario nonchè per la promozione di spettacoli.
 9. Consentire alle società sportive il pieno utilizzo e l'accesso alle strutture sportive nelle ore prestabilite, prevedendo altresì l'individuazine di un responsabile per ciascuna di essa che possa anche garantire l'accesso in caso di necessità e/o impossibilità della ditta che gli garantisce il servizio.
-10. Garantire la fruizione giornaliera della pista di atletica del campo Martucci per svolgere liberamente le attività di Running, sottoscrivendo apposito protocollo d'intesa con le locali associazioni di running;
+10. Garantire la fruizione giornaliera della pista di atletica del campo Martucci per svolgere liberamente le attività di Running, sottoscrivendo apposito protocollo d'intesa con le locali associazioni di Running;
 11. Promuovere una collaborazione delle società sportive che svolgono la medesima attività al fine di creare un vivaio giovanile idoneo a consentire la crescita agonistica senza lasciare il territorio, riconoscendo adeguate premialità a chi opererà in questa direzione.
 
 .. image:: ./_images/atletica.jpg

@@ -1,6 +1,7 @@
 Urbanistica
 ===================================
 L'attività urbanistica deve essere improntata alla riduzione del consumo del suolo e contemporaneamenete correlata all'implementazione dei servizi da offrire ai cittadini.
+
 Gli interventi in materia urbanistica devono sempre garantire il miglioramento della qualità urbana.
 
 La pubblica amministrazione e gli attori economici dovranno uniformarsi al principio della perequazione nella pianificazione urbanistica contemperando le rispettive esigenze al fine di raggiungere un modello di sviluppo che abbia come obiettivo il recupero e riuso delle aree dismesse, la riqualificazione di aree degradate nel rispetto dell'ambiente urbano.

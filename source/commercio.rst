@@ -6,7 +6,7 @@ Commercio e Attività produttive
 Compito dell'Amministrazione deve essere quello di incentivare il commercio per aumentare le opportunità di sviluppo del settore attraverso un piano di defiscalizzazione per incentivare nuove aperture commerciali e individuazione di aree urbane strategiche da riqualificare.
 Sarà compito dell'Amministrazione favorire lo sviluppo di una rete intercomunale turistica con lo scopo di attrarre potenziali consumatori incentivando il passaggio nella nostra città.
 
-Sarà importante operare in sinergia con l'ASL e Sovraintendenza per svolgere un'attività di armonizzazione della normativa urbanistica comunale e quella sanitaria, al fine di meglio disciplinare e garantire l'esercizio delle attività commerciali di sommistrazione.
+Sarà importante operare in sinergia con l'ASL e Sovrintendenza per svolgere un'attività di armonizzazione della normativa urbanistica comunale e quella sanitaria, al fine di meglio disciplinare e garantire l'esercizio delle attività commerciali di sommistrazione.
 Ulteriore problema da affrontare sarà l'ubicazione dei mastelli per la raccolta dei rifiuti delle attività commerciali, con il coinvolgimento delle associazioni di categoria, ASL e gestore del servizio di rifiuti.
 Si può ipotizzare l'utilizzo di contenitori comuni, armonizzati nel contesto urbano per quelle attività che non hanno spazio dove allocare il suddetto contenitore.
 

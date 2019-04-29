@@ -1,6 +1,6 @@
 Tributi
 ===================================
-Negli ultimi anni il servizio di riscoissione tributi nonostante fosse gestito con il supporeto di una società privata esterna, non ha garantito un'efficace attività di riscossione che ha determinato l'accumularsi di crediti insoluti.
+Negli ultimi anni il servizio di riscossione tributi nonostante fosse gestito con il supporeto di una società privata esterna, non ha garantito un'efficace attività di riscossione che ha determinato l'accumularsi di crediti insoluti.
 Tale inefficienza ha impedito all'ente di utilizzare le risorse in entrata per svolgere le proprie funzioni basilari.
 
 Obiettivo primario sarà quello di monitorare l'attività di recupero efficacemente in tutte le fasi indispensabili all'effettivo incasso delle somme.
@@ -11,7 +11,7 @@ Al contempo bisognerà agevolare le imprese che presidiano e animano la città v
 Sui cittadini dovrà ricadere il beneficio derivante dalla elevata percentuale di raccolta differenziata atteso che gli stessi hanno consentito il raggiungimento di importanti obiettivi.
 Garantire alle attività commerciali e imprenditoriali una immediata semplificazione nel pagamento delle tasse derivanti dall'occupazione di suolo pubblico ponendo come obiettivo il raggiungimento anche in tal senso di una procedura telematica per la quantificazione e relativo pagamento.
 
-L'Amministrazione avrà l'obiettivo di monitorare l'attuazione dell'indirizzo politico per il recupero dell’evasione tributi, il rispetto del contratto con la società di riscossione, di elaborare e pubblicare report periodici di data analysis sullo stato di evasione/recupero fiscale nel rispetto della tutela dei dati personali.
+L'Amministrazione avrà l'obiettivo di monitorare l'attuazione dell'indirizzo politico per il recupero dell’evasione tributi, il rispetto del contratto con la società di riscossione, di elaborare e pubblicare report periodici di Data Analysis sullo stato di evasione/recupero fiscale nel rispetto della tutela dei dati personali.
 
 Impegno prioritario sarà altresì la sottoscrizione del protocollo d'intesa con gli **Uffici della Agenzia delle Entrate**, unitamente alla società incaricata alla riscossione tributi.
 

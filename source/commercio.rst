@@ -17,7 +17,7 @@ Riduzione fiscale
 A Gioia del Colle piccole attività commerciali subiscono un'elevatissima pressione fiscale a volte insostenibile e ingiustificata.
 Obiettivo dell'Amministrazione sarà quello di ridurre progressivamente i tributi locali, attraverso i benefici della raccolta differenziata e la lotta all'evasione fiscale.
 
-L'occupazione di suolo pubblico è una possibilità di guadagno che non deve essere vessatto, ma tassata con minimo pressione.
+L'occupazione di suolo pubblico è una possibilità di guadagno che non deve essere vessatto, ma tassata con minima pressione.
 
 Sostenendo tali opportunità le attività commerciali potrebbero senza dubbio un reale beneficio economico.
 

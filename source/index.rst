@@ -12,7 +12,7 @@ Il mio impegno per Gioia del Colle
   :alt: Coalizione di Centro Destra
   :align: center
 
-*Il percorso che mi ha portato a scrivere insieme alle liste che sostengono la mia candidatura a Sindaco di Gioia del Colle è stato avviato dal rapporto diretto con i cittadini, le Associazioni di categoria, le Associazioni culturali, i tecnici e tutti gli operatori economici presenti a Gioia del Colle.*
+*Il percorso che mi ha portato a scrivere il programma insieme alle liste che sostengono la mia candidatura a Sindaco di Gioia del Colle è stato avviato dal rapporto diretto con i cittadini, le Associazioni di categoria, le Associazioni culturali, i tecnici e tutti gli operatori economici presenti a Gioia del Colle.*
    
 *Per la prima volta l'idea di programma nasce da un confronto improntato alla effettiva partecipazione, al dialogo e all'ascolto.*
    

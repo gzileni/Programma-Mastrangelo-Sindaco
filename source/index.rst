@@ -38,6 +38,9 @@ Il mio impegno per Gioia del Colle
 .. raw:: html
    :file: sign.html
 
+.. raw:: html
+   :file: download-doc.html
+
 .. toctree::
    :maxdepth: 1
    :caption: Programma:

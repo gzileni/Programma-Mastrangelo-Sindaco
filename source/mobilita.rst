@@ -2,14 +2,13 @@ Mobilità sostenibile
 ===================================
 **Il benessere del cittadino dipende in buona parte dal livello di mobilità sostenibile.**
 
-Se esistono percorsi pedonali, piste ciclabili insieme ad un efficiente trasporto pubblico il cittadino abbandonerà i mezzi privati, queste tre variabili insieme contribuiscono ad avere mobilità sostenibile.
+Se esistono percorsi pedonali, piste ciclabili insieme ad un efficiente trasporto pubblico il cittadino abbandonerà i mezzi privati, queste tre variabili insieme contribuiscono ad avere mobilità sostenibile. 
 
-Purtroppo la cultura della mobilità sostenibile non è praticata, nonostante la presenza di importanti associazioni che promuovono la politica 
-Il Comune di Gioia del Colle deve essere concretamente attivo nello sviluppo di una rete urbana di trasporto pubblico efficiente ed effettivamente funzionale alle esigenze dei cittadini.
+Purtroppo la cultura della mobilità sostenibile non è praticata, nonostante la presenza di importanti associazioni e cittadini che ne promuovono la politica Il Comune di Gioia del Colle deve essere concretamente attivo nello sviluppo di una rete urbana di trasporto pubblico efficiente ed effettivamente funzionale alle esigenze dei cittadini. 
 
 Le azioni fino ad oggi effettuate sul territorio di Gioia del Colle, nonostante i buoni propositi delle ultime anni diretti ad organizzare incontri tematici, chiusure del traffico e con qualche finanziamento approvato, non hanno prodotto quel cambiamento culturale e sostanziale volto a ridurre la dipendenza dal traffico automobilistico individuale. 
 
-Ciò è confermato dal netto incremento del Tasso di Motorizzazione presente in città dal 2002, ottenuto dal rapporto tra vetture circolanti ogni 1000 abitanti.
+Ciò è confermato dal netto incremento del Tasso di Motorizzazione presente in città dal 2002, ottenuto dal rapporto tra vetture circolanti ogni 1000 abitanti. 
 
 Riduzione del Traffico
 -------------------------------

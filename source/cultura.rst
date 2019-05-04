@@ -19,7 +19,7 @@ Il compito sarà esaltarne il ricordo indicando l'esempio e la laboriosità al
 
 Importante sarà anche scoprire ed esaltare le meravigliose architetture delle masserie e ville di campagna che numerose insistono nei dintorni dell'agro gioiese: **Masseria Gigante, Soria, San Pietro, Cassano, Rosati, Eramo, Ciavea, Surico, D'Onghia, Mandorlamara, Fatalone, Vallata, Colombo** andranno tutte indicate su apposite mappe illustrative all'interno delle quali verrà descritta la loro ubicazione e la loro storia.
 
-Anche i Palazzi gentilizi delle famiglie gioiesi verranno adeguatamente esaltati, indicandone all'uopo epoche, costruttori, stili e proprietà: **Palazzo Surico, Cassano, Pagano, Romano, Monte, Jacobellis, Tateo, Nico, Pavove, Rizzi, Cirsella, Serino, Soria, Tateo, Carnevale, Capurso, Carano-Donvito, Tarsia-Incuria, Boscia ed Eramo**, tutti godranno di una nuova rinascita e giusta esaltazione. 
+Anche i Palazzi gentilizi delle famiglie gioiesi verranno adeguatamente esaltati, indicandone all'uopo epoche, costruttori, stili e proprietà: **Palazzo Surico, Cassano, Pagano, Romano, Monte, Jacobellis, Nico, Pavove, Rizzi, Cirsella, Serino, Soria, Tateo, Carnevale, Capurso, Carano-Donvito, Tarsia-Incuria, Boscia ed Eramo**, tutti godranno di una nuova rinascita e giusta esaltazione. 
 
 Il tutto senza dimenticare i tra importanti Conventi di Gioia del Colle: **Sant'Antonio, San Domenico e San Francesco**, insieme alla esaltazione degli slarghi e degli archi che numerosi insistono all'interno del nostro meraviglioso centro storico. 
 

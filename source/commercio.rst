@@ -7,6 +7,7 @@ Compito dell'Amministrazione deve essere quello di incentivare il commercio per 
 Sarà compito dell'Amministrazione favorire lo sviluppo di una rete intercomunale turistica con lo scopo di attrarre potenziali consumatori incentivando il passaggio nella nostra città.
 
 Sarà importante operare in sinergia con l'ASL e Soprintendenza per svolgere un'attività di armonizzazione della normativa urbanistica comunale e quella sanitaria, al fine di meglio disciplinare e garantire l'esercizio delle attività commerciali di sommistrazione.
+
 Ulteriore problema da affrontare sarà l'ubicazione dei mastelli per la raccolta dei rifiuti delle attività commerciali, con il coinvolgimento delle associazioni di categoria, ASL e gestore del servizio di rifiuti.
 Si può ipotizzare l'utilizzo di contenitori comuni, armonizzati nel contesto urbano per quelle attività che non hanno spazio dove allocare il suddetto contenitore.
 

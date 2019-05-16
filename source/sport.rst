@@ -18,7 +18,7 @@ Sarà necessario pianificare una attenta politica volta all'incremento della pra
 
 1. Una corretta pianificazione di interventi strutturali ordinari e straordinari mediante il ricorso alle molteplici fonti di finanziamento pubbliche e private;
 2. Incentivare e collaborare alla realizzazione di manifestazioni sportive costituenti un momento importante di diffusione delle discipline sportive oltre che momento di promozione turistico commerciale;
-3. Razionalizzare le tariffe per l'uso delle strutture col compito precipuo di allargare soprattutto alle categorie di cittadini che versano in difficoltà economioche e sociali;
+3. Razionalizzare le tariffe per l'uso delle strutture col compito precipuo di allargare soprattutto alle categorie di cittadini che versano in difficoltà economiche e sociali;
 4. Utilizzare lo sport quale strumento attivo di prevenzione socio-sanitaria e di crescita relazionale e culturale;
 5. Promuovere lo sport all'interno delle scuole consentendo l'utilizzo delle strutture durante le ore scolastiche;
 6. Coordinare e promuovere la cooperazione delle associazioni/società sportive presenti sul territorio al fine armonizzare ed equilibrare i principali filoni dello sport giovanile, sport per tutti e sport di alto livello;
@@ -71,7 +71,7 @@ L'ufficio Sport sarà riorganizzato in un nuovo organigramma di servizi comunali
 
 Nuove strutture sportive
 --------------------------
-Avviare processi di collaborazione e dialogo con la Regione Puglie e CONI per reperire finanziamenti destinati alla rigenerazione e all'utilizzo multidisciplinare delle strutture esistenti.
+Avviare processi di collaborazione e dialogo con la Regione Puglia e CONI per reperire finanziamenti destinati alla rigenerazione e all'utilizzo multidisciplinare delle strutture esistenti.
 
 .. image:: ./_images/tensostruttura.jpg
   :width: 100%

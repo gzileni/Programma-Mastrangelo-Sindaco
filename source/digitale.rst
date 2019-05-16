@@ -107,3 +107,4 @@ La tecnologia BlockChain può aiutare la Pubblica Amministrazione ad implementar
 .. _CLOUD: https://it.wikipedia.org/wiki/Cloud_computing
 .. _Piano Triennale per l’Informatica: https://pianotriennale-ict.italia.it
 .. _Blockchain: https://it.wikipedia.org/wiki/Blockchain
+.. _Crowdfunding Civico: http://kupanda.net/it/crowdfunding-civico/ 

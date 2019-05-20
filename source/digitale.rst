@@ -97,12 +97,12 @@ Sviluppare possibili applicazioni legate alle tematiche della amministrazione tr
 
 La tecnologia BlockChain può aiutare la Pubblica Amministrazione ad implementare Smart Contracts e Sistemi digitali multifirma per monitorare con maggiore trasparenza e precisione i risultati e le performance di se stessa, migliorando il rapporto di fiducia con i cittadini e istituzioni, e l’interoperabilità dei suoi dati.
 
-.. _altrimenti faremo un danno al territorio e all’erario: https://docs.italia.it/teamdigitale/team-per-la-trasformazione-digitale/protocollo-intesa-corte-dei-co nti-docs/it/stabile/protocollo.html
+.. _altrimenti faremo un danno al territorio e all’erario: https://docs.italia.it/teamdigitale/team-per-la-trasformazione-digitale/protocollo-intesa-corte-dei-conti-docs/it/stabile/protocollo.html
 .. _eGov: https://egov.ba.it
 .. _SPID: https://www.spid.gov.it
 .. _PagoPA: https://www.agid.gov.it/it/piattaforme/pagopa
 .. _ANPR (Anagrafe Nazionale della Popolazione Residente): https://www.anpr.interno.it/portale/
-.. _5 Novembre 2018: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&uact=8&ved=2ah UKEwjhybiJ2ZLgAhWuNOwKHW5jDr4QFjAJegQICRAC&url=https%3A%2F%2Fwww.anpr.interno.it%2F portale%2Fdocuments%2F20182%2F50186%2FComuni%2Bsubentrati%2B16112018.xlsx%2Fa33214 b3-e6e0-49fe-9c80-f1d5527fb61a&usg=AOvVaw2GCpi4nxWtJus879iA7Rkl
+.. _5 Novembre 2018: https://www.anpr.interno.it/%20portale/documents/20182/50186/Comuni+subentrati+16112018.xlsx
 .. _Anagrafe alla banca dati nazionale: http://dgegovpa.it/Gioiadelcolle/albo/dati/20160859D.PDF
 .. _CLOUD: https://it.wikipedia.org/wiki/Cloud_computing
 .. _Piano Triennale per l’Informatica: https://pianotriennale-ict.italia.it
